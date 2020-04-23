@@ -1,0 +1,540 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=438;
+	taxlabels
+	'Algeria/2264/2020'
+	'Algeria/2265/2020'
+	'Algeria/G0860_2262/2020'
+	'Australia/VIC01/2020'
+	'Beijing/105/2020'
+	'Beijing/231/2020'
+	'Beijing/233/2020'
+	'Beijing/235/2020'
+	'Brazil/SPBR-02/2020'
+	'China/IQTC01/2020'
+	'China/IQTC02/2020'
+	'China/IQTC03/2020'
+	'China/IQTC04/2020'
+	'China/WH-09/2020'
+	'China/WHU01/2020'
+	'China/WHU02/2020'
+	'Colombia/79256/2020'
+	'Finland/1/2020'
+	'France/B1623/2020'[&!color=#de0004]
+	'France/B2330/2020'[&!color=#de0004]
+	'France/B2334/2020'[&!color=#de0004]
+	'France/B2335/2020'[&!color=#de0004]
+	'France/B2336/2020'[&!color=#de0004]
+	'France/B2337/2020'[&!color=#de0004]
+	'France/B2340/2020'[&!color=#de0004]
+	'France/B2343/2020'[&!color=#de0004]
+	'France/B2344/2020'[&!color=#de0004]
+	'France/B2346/2020'[&!color=#de0004]
+	'France/B2348/2020'[&!color=#de0004]
+	'France/B2349/2020'[&!color=#de0004]
+	'France/B2351/2020'[&!color=#de0004]
+	'France/BFC2094/2020'[&!color=#de0004]
+	'France/BFC2147/2020'[&!color=#de0004]
+	'France/BFC2709/2020'[&!color=#de0004]
+	'France/CVL2000/2020'[&!color=#de0004]
+	'France/CVL3365/2020'[&!color=#de0004]
+	'France/GE1583/2020'[&!color=#de0004]
+	'France/GE1973/2020'[&!color=#de0004]
+	'France/GE1977/2020'[&!color=#de0004]
+	'France/GE2720/2020'[&!color=#de0004]
+	'France/GE2722/2020'[&!color=#de0004]
+	'France/GE2843/2020'[&!color=#de0004]
+	'France/GE3067/2020'[&!color=#de0004]
+	'France/HF1463/2020'[&!color=#de0004]
+	'France/HF1645/2020'[&!color=#de0004]
+	'France/HF1684/2020'[&!color=#de0004]
+	'France/HF1795/2020'[&!color=#de0004]
+	'France/HF1805/2020'[&!color=#de0004]
+	'France/HF1813/2020'[&!color=#de0004]
+	'France/HF1870/2020'[&!color=#de0004]
+	'France/HF1871/2020'[&!color=#de0004]
+	'France/HF1986/2020'[&!color=#de0004]
+	'France/HF1988/2020'[&!color=#de0004]
+	'France/HF1989/2020'[&!color=#de0004]
+	'France/HF1993/2020'[&!color=#de0004]
+	'France/HF1995/2020'[&!color=#de0004]
+	'France/HF2039/2020'[&!color=#de0004]
+	'France/HF2060/2020'[&!color=#de0004]
+	'France/HF2150/2020'[&!color=#de0004]
+	'France/HF2151/2020'[&!color=#de0004]
+	'France/HF2155/2020'[&!color=#de0004]
+	'France/HF2174/2020'[&!color=#de0004]
+	'France/HF2196/2020'[&!color=#de0004]
+	'France/HF2234/2020'[&!color=#de0004]
+	'France/HF2237/2020'[&!color=#de0004]
+	'France/HF2239/2020'[&!color=#de0004]
+	'France/HF2381/2020'[&!color=#de0004]
+	'France/HF2393/2020'[&!color=#de0004]
+	'France/HF2405/2020'[&!color=#de0004]
+	'France/HF2496/2020'[&!color=#de0004]
+	'France/HF2586/2020'[&!color=#de0004]
+	'France/HF2595/2020'[&!color=#de0004]
+	'France/HF2597/2020'[&!color=#de0004]
+	'France/HF2601/2020'[&!color=#de0004]
+	'France/HF2748/2020'[&!color=#de0004]
+	'France/HF2797/2020'[&!color=#de0004]
+	'France/HF2946/2020'[&!color=#de0004]
+	'France/HF2948/2020'[&!color=#de0004]
+	'France/HF3036/2020'[&!color=#de0004]
+	'France/HF3138/2020'[&!color=#de0004]
+	'France/HF3141/2020'[&!color=#de0004]
+	'France/IDF0372/2020'[&!color=#de0004]
+	'France/IDF0373/2020'[&!color=#de0004]
+	'France/IDF0515/2020'[&!color=#de0004]
+	'France/IDF1980/2020'[&!color=#de0004]
+	'France/IDF2075/2020'[&!color=#de0004]
+	'France/IDF2256/2020'[&!color=#de0004]
+	'France/IDF2278/2020'[&!color=#de0004]
+	'France/IDF2279/2020'[&!color=#de0004]
+	'France/IDF2284/2020'[&!color=#de0004]
+	'France/IDF2410/2020'[&!color=#de0004]
+	'France/IDF2420/2020'[&!color=#de0004]
+	'France/IDF2532/2020'[&!color=#de0004]
+	'France/IDF2533/2020'[&!color=#de0004]
+	'France/IDF2534/2020'[&!color=#de0004]
+	'France/IDF2561/2020'[&!color=#de0004]
+	'France/IDF2684/2020'[&!color=#de0004]
+	'France/IDF2768/2020'[&!color=#de0004]
+	'France/IDF2792/2020'[&!color=#de0004]
+	'France/IDF2848/2020'[&!color=#de0004]
+	'France/IDF2849/2020'[&!color=#de0004]
+	'France/IDF2936/2020'[&!color=#de0004]
+	'France/IDF2989/2020'[&!color=#de0004]
+	'France/IDF3029/2020'[&!color=#de0004]
+	'France/IDF3040/2020'[&!color=#de0004]
+	'France/IDF3163/2020'[&!color=#de0004]
+	'France/IDF3165/2020'[&!color=#de0004]
+	'France/IDF3170/2020'[&!color=#de0004]
+	'France/IDF3212/2020'[&!color=#de0004]
+	'France/IDF3218/2020'[&!color=#de0004]
+	'France/IDF3230/2020'[&!color=#de0004]
+	'France/IDF3235/2020'[&!color=#de0004]
+	'France/N1620/2020'[&!color=#de0004]
+	'France/N2223/2020'[&!color=#de0004]
+	'France/PL1643/2020'[&!color=#de0004]
+	'Hangzhou/HZ-1/2020'
+	'Hangzhou/HZ162/2020'
+	'Hangzhou/HZ178/2020'
+	'Hangzhou/HZ185/2020'
+	'Hangzhou/HZ477/2020'
+	'Hangzhou/HZ48/2020'
+	'Hangzhou/HZ481/2020'
+	'Hangzhou/HZ49/2020'
+	'Hangzhou/HZ551/2020'
+	'Hangzhou/HZ576/2020'
+	'Hangzhou/HZ60/2020'
+	'Hangzhou/HZ62/2020'
+	'Hangzhou/HZ638/2020'
+	'Hangzhou/HZ79/2020'
+	'Hangzhou/HZ90/2020'
+	'Hangzhou/HZ91/2020'
+	'India/166/2020'
+	'Italy/INMI1-cs/2020'
+	'Nepal/61/2020'
+	'Pakistan/Gilgit1/2020'
+	'Pakistan/Manga1/2020'
+	'Shanghai/SH01/2020'
+	'Shenzhen/HKU-SZ-002/2020'
+	'Shenzhen/HKU-SZ-005/2020'
+	'Spain/Valencia1/2020'
+	'Spain/Valencia10/2020'
+	'Spain/Valencia2/2020'
+	'Spain/Valencia3/2020'
+	'Spain/Valencia4/2020'
+	'Spain/Valencia5/2020'
+	'Spain/Valencia6/2020'
+	'Spain/Valencia7/2020'
+	'Spain/Valencia8/2020'
+	'Spain/Valencia9/2020'
+	'Sweden/01/2020'
+	'Taiwan/CGMH-CGU-01/2020'
+	'Taiwan/NTU01/2020'
+	'Taiwan/NTU02/2020'
+	'USA/AZ1/2020'
+	'USA/CA-CDPH-UC1/2020'
+	'USA/CA-CDPH-UC2/2020'
+	'USA/CA-CDPH-UC3/2020'
+	'USA/CA-CDPH-UC4/2020'
+	'USA/CA-CDPH-UC5/2020'
+	'USA/CA-CDPH-UC6/2020'
+	'USA/CA-CDPH-UC7/2020'
+	'USA/CA-CDPH-UC8/2020'
+	'USA/CA-CDPH-UC9/2020'
+	'USA/CA-PC101P/2020'
+	'USA/CA1/2020'
+	'USA/CA2/2020'
+	'USA/CA3/2020'
+	'USA/CA4/2020'
+	'USA/CA5/2020'
+	'USA/CA6/2020'
+	'USA/CA7/2020'
+	'USA/CA8/2020'
+	'USA/CA9/2020'
+	'USA/CT-Yale-001/2020'
+	'USA/CT-Yale-002/2020'
+	'USA/CT-Yale-003/2020'
+	'USA/CT-Yale-005/2020'
+	'USA/CT-Yale-006/2020'
+	'USA/CT-Yale-007/2020'
+	'USA/CT-Yale-008/2020'
+	'USA/CT-Yale-009/2020'
+	'USA/CT-Yale-010/2020'
+	'USA/CZB-RR057-005/2020'
+	'USA/CZB-RR057-006/2020'
+	'USA/CZB-RR057-007/2020'
+	'USA/CZB-RR057-011/2020'
+	'USA/CZB-RR057-013/2020'
+	'USA/CZB-RR057-014/2020'
+	'USA/CZB-RR057-015/2020'
+	'USA/IL1/2020'
+	'USA/IL2/2020'
+	'USA/MA1/2020'
+	'USA/MN2-MDH2/2020'
+	'USA/MN3-MDH3/2020'
+	'USA/TX1/2020'
+	'USA/UC-CDPH-UC11/2020'
+	'USA/WA-NH10/2020'
+	'USA/WA-NH11/2020'
+	'USA/WA-NH12/2020'
+	'USA/WA-NH13/2020'
+	'USA/WA-NH14/2020'
+	'USA/WA-NH17/2020'
+	'USA/WA-NH18/2020'
+	'USA/WA-NH19/2020'
+	'USA/WA-NH2/2020'
+	'USA/WA-NH20/2020'
+	'USA/WA-NH21/2020'
+	'USA/WA-NH22/2020'
+	'USA/WA-NH23/2020'
+	'USA/WA-NH24/2020'
+	'USA/WA-NH3/2020'
+	'USA/WA-NH4/2020'
+	'USA/WA-NH5/2020'
+	'USA/WA-NH6/2020'
+	'USA/WA-NH7/2020'
+	'USA/WA-NH8/2020'
+	'USA/WA-NH9/2020'
+	'USA/WA-UW192/2020'
+	'USA/WA-UW193/2020'
+	'USA/WA-UW194/2020'
+	'USA/WA-UW195/2020'
+	'USA/WA-UW196/2020'
+	'USA/WA-UW197/2020'
+	'USA/WA-UW198/2020'
+	'USA/WA-UW199/2020'
+	'USA/WA-UW200/2020'
+	'USA/WA-UW201/2020'
+	'USA/WA-UW202/2020'
+	'USA/WA-UW203/2020'
+	'USA/WA-UW204/2020'
+	'USA/WA-UW205/2020'
+	'USA/WA-UW206/2020'
+	'USA/WA-UW207/2020'
+	'USA/WA-UW208/2020'
+	'USA/WA-UW209/2020'
+	'USA/WA-UW210/2020'
+	'USA/WA-UW211/2020'
+	'USA/WA-UW212/2020'
+	'USA/WA-UW213/2020'
+	'USA/WA-UW214/2020'
+	'USA/WA-UW215/2020'
+	'USA/WA-UW216/2020'
+	'USA/WA-UW217/2020'
+	'USA/WA-UW218/2020'
+	'USA/WA-UW219/2020'
+	'USA/WA-UW220/2020'
+	'USA/WA-UW221/2020'
+	'USA/WA-UW222/2020'
+	'USA/WA-UW223/2020'
+	'USA/WA-UW224/2020'
+	'USA/WA-UW225/2020'
+	'USA/WA-UW226/2020'
+	'USA/WA-UW227/2020'
+	'USA/WA-UW228/2020'
+	'USA/WA-UW229/2020'
+	'USA/WA-UW231/2020'
+	'USA/WA-UW232/2020'
+	'USA/WA-UW233/2020'
+	'USA/WA-UW234/2020'
+	'USA/WA-UW235/2020'
+	'USA/WA-UW236/2020'
+	'USA/WA-UW237/2020'
+	'USA/WA-UW238/2020'
+	'USA/WA-UW239/2020'
+	'USA/WA-UW240/2020'
+	'USA/WA-UW241/2020'
+	'USA/WA-UW242/2020'
+	'USA/WA-UW243/2020'
+	'USA/WA-UW244/2020'
+	'USA/WA-UW245/2020'
+	'USA/WA-UW246/2020'
+	'USA/WA-UW248/2020'
+	'USA/WA-UW249/2020'
+	'USA/WA-UW250/2020'
+	'USA/WA-UW251/2020'
+	'USA/WA-UW252/2020'
+	'USA/WA-UW253/2020'
+	'USA/WA-UW254/2020'
+	'USA/WA-UW255/2020'
+	'USA/WA-UW256/2020'
+	'USA/WA-UW257/2020'
+	'USA/WA-UW258/2020'
+	'USA/WA-UW259/2020'
+	'USA/WA-UW260/2020'
+	'USA/WA-UW261/2020'
+	'USA/WA-UW262/2020'
+	'USA/WA-UW263/2020'
+	'USA/WA-UW264/2020'
+	'USA/WA-UW265/2020'
+	'USA/WA-UW266/2020'
+	'USA/WA-UW267/2020'
+	'USA/WA-UW268/2020'
+	'USA/WA-UW269/2020'
+	'USA/WA-UW270/2020'
+	'USA/WA-UW271/2020'
+	'USA/WA-UW272/2020'
+	'USA/WA-UW273/2020'
+	'USA/WA-UW274/2020'
+	'USA/WA-UW275/2020'
+	'USA/WA-UW276/2020'
+	'USA/WA-UW277/2020'
+	'USA/WA-UW278/2020'
+	'USA/WA-UW279/2020'
+	'USA/WA-UW280/2020'
+	'USA/WA-UW282/2020'
+	'USA/WA-UW284/2020'
+	'USA/WA-UW285/2020'
+	'USA/WA-UW286/2020'
+	'USA/WA-UW287/2020'
+	'USA/WA-UW288/2020'
+	'USA/WA-UW289/2020'
+	'USA/WA-UW290/2020'
+	'USA/WA-UW291/2020'
+	'USA/WA-UW292/2020'
+	'USA/WA-UW293/2020'
+	'USA/WA-UW294/2020'
+	'USA/WA-UW295/2020'
+	'USA/WA-UW296/2020'
+	'USA/WA-UW297/2020'
+	'USA/WA-UW298/2020'
+	'USA/WA-UW299/2020'
+	'USA/WA-UW300/2020'
+	'USA/WA-UW301/2020'
+	'USA/WA-UW302/2020'
+	'USA/WA-UW303/2020'
+	'USA/WA-UW304/2020'
+	'USA/WA-UW305/2020'
+	'USA/WA-UW307/2020'
+	'USA/WA-UW308/2020'
+	'USA/WA-UW310/2020'
+	'USA/WA-UW312/2020'
+	'USA/WA-UW313/2020'
+	'USA/WA-UW314/2020'
+	'USA/WA-UW315/2020'
+	'USA/WA-UW316/2020'
+	'USA/WA-UW317/2020'
+	'USA/WA-UW319/2020'
+	'USA/WA-UW320/2020'
+	'USA/WA-UW321/2020'
+	'USA/WA-UW322/2020'
+	'USA/WA-UW323/2020'
+	'USA/WA-UW324/2020'
+	'USA/WA-UW325/2020'
+	'USA/WA-UW326/2020'
+	'USA/WA-UW327/2020'
+	'USA/WA-UW328/2020'
+	'USA/WA-UW329/2020'
+	'USA/WA-UW330/2020'
+	'USA/WA-UW331/2020'
+	'USA/WA-UW332/2020'
+	'USA/WA-UW333/2020'
+	'USA/WA-UW334/2020'
+	'USA/WA-UW335/2020'
+	'USA/WA-UW336/2020'
+	'USA/WA-UW337/2020'
+	'USA/WA-UW338/2020'
+	'USA/WA-UW339/2020'
+	'USA/WA-UW340/2020'
+	'USA/WA-UW341/2020'
+	'USA/WA-UW342/2020'
+	'USA/WA-UW343/2020'
+	'USA/WA-UW344/2020'
+	'USA/WA-UW345/2020'
+	'USA/WA-UW346/2020'
+	'USA/WA-UW347/2020'
+	'USA/WA-UW348/2020'
+	'USA/WA-UW349/2020'
+	'USA/WA-UW350/2020'
+	'USA/WA-UW351/2020'
+	'USA/WA-UW352/2020'
+	'USA/WA-UW353/2020'
+	'USA/WA-UW354/2020'
+	'USA/WA-UW355/2020'
+	'USA/WA-UW356/2020'
+	'USA/WA-UW357/2020'
+	'USA/WA-UW358/2020'
+	'USA/WA-UW359/2020'
+	'USA/WA-UW360/2020'
+	'USA/WA-UW361/2020'
+	'USA/WA-UW362/2020'
+	'USA/WA-UW363/2020'
+	'USA/WA-UW364/2020'
+	'USA/WA-UW365/2020'
+	'USA/WA-UW366/2020'
+	'USA/WA-UW367/2020'
+	'USA/WA-UW368/2020'
+	'USA/WA-UW369/2020'
+	'USA/WA-UW370/2020'
+	'USA/WA-UW371/2020'
+	'USA/WA-UW372/2020'
+	'USA/WA-UW373/2020'
+	'USA/WA-UW374/2020'
+	'USA/WA-UW375/2020'
+	'USA/WA-UW376/2020'
+	'USA/WA-UW378/2020'
+	'USA/WA-UW379/2020'
+	'USA/WA-UW380/2020'
+	'USA/WA-UW381/2020'
+	'USA/WA-UW382/2020'
+	'USA/WA-UW383/2020'
+	'USA/WA-UW384/2020'
+	'USA/WA-UW385/2020'
+	'USA/WA-UW386/2020'
+	'USA/WA-UW387/2020'
+	'USA/WA-UW388/2020'
+	'USA/WA-UW389/2020'
+	'USA/WA-UW390/2020'
+	'USA/WA1/2020'
+	'USA/WA2/2020'
+	'USA/WA3-UW1/2020'
+	'USA/WA4-UW2/2020'
+	'USA/WA6-UW3/2020'
+	'USA/WA7-UW4/2020'
+	'USA/WA8-UW5/2020'
+	'USA/WA9-UW6/2020'
+	'USA/WI1/2020'
+	'Vietnam/19-01S/2020'
+	'Vietnam/19-02S/2020'
+	'Wuhan-Hu-1/2019'
+	'Wuhan/IPBCAMS-WH-01/2019'
+	'Wuhan/IPBCAMS-WH-02/2019'
+	'Wuhan/IPBCAMS-WH-03/2019'
+	'Wuhan/IPBCAMS-WH-04/2019'
+	'Wuhan/OS52/2020'
+	'Wuhan/WH01/2019'
+	'Wuhan/WH03/2020'
+	'Wuhan/WH04/2020'
+	'Wuhan/WIV02/2019'
+	'Wuhan/WIV04/2019'
+	'Wuhan/WIV05/2019'
+	'Wuhan/WIV06/2019'
+	'Wuhan/WIV07/2019'
+	'Wuhan/YB012504/2020'
+	'Wuhan/YB012506/2020'
+	'Wuhan/YB012602/2020'
+	'Wuhan/YB012605/2020'
+	'Wuhan/YB012611/2020'
+	'Yunnan/IVDC-YN-003/2020'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('Wuhan-Hu-1/2019':0.0,('Wuhan/OS52/2020':4.008879,'Wuhan/WH01/2019':2.004536,'Wuhan/IPBCAMS-WH-01/2019':3.006697,'Wuhan/IPBCAMS-WH-03/2019':1.002135,'Wuhan/WIV05/2019':2.00434,('France/IDF0515/2020':0.0)[&label="France/IDF0515/2020_travel_history"]:3.006637,'Wuhan/WIV07/2019':2.004364,('USA/CA8/2020':0.0,'Wuhan/WIV02/2019':1.002139)[&label="NODE_0000217"]:0.999157,(('USA/MA1/2020':0.0)[&label="USA/MA1/2020_travel_history"]:3.006738,'USA/WA-UW349/2020':2.004407,('USA/CA4/2020':0.0,'USA/CA3/2020':0.0)[&label="NODE_0000198"]:1.998414)[&label="NODE_0000196"]:0.999173,(('Wuhan/YB012605/2020':1.002219,'Wuhan/YB012611/2020':6.013752)[&label="NODE_0000223"]:0.999189,('Wuhan/YB012504/2020':0.0,'Wuhan/YB012602/2020':0.0)[&label="NODE_0000007"]:0.0)[&label="NODE_0000221"]:0.999173,('Sweden/01/2020'[&!color=#dba400]:6.014182,('Australia/VIC01/2020'[&!color=#dba400]:0.0)[&label="Australia/VIC01/2020_travel_history"]:2.004326,('USA/CA2/2020'[&!color=#dba400]:0.0)[&label="USA/CA2/2020_travel_history"]:1.002147,(('France/IDF0372/2020'[&!color=#dba400]:0.0)[&label="France/IDF0372/2020_travel_history"]:0.0,('France/IDF0373/2020'[&!color=#dba400]:0.0)[&label="France/IDF0373/2020_travel_history"]:0.0)[&label="NODE_0000180",!color=#dba400]:0.99916,((('Italy/INMI1-cs/2020'[&!color=#dba400]:0.0)[&label="Italy/INMI1-cs/2020_travel_history"]:0.0,('France/B2340/2020'[&!color=#dba400]:1.002156,'France/B2334/2020'[&!color=#dba400]:1.002169)[&label="NODE_0000186",!color=#dba400]:1.998389)[&label="NODE_0000011",!color=#dba400]:0.0,(('USA/WA3-UW1/2020'[&!color=#dba400]:0.0)[&label="USA/WA3-UW1/2020_travel_history"]:3.006602,('USA/WA-UW324/2020'[&!color=#dba400]:0.0,'USA/WA-UW295/2020'[&!color=#dba400]:1.002146)[&label="NODE_0000188",!color=#dba400]:1.998358,('USA/WA-UW275/2020'[&!color=#dba400]:7.016274,(('Brazil/SPBR-02/2020'[&!color=#dba400]:0.0)[&label="Brazil/SPBR-02/2020_travel_history"]:1.002365,('USA/WA-UW197/2020'[&!color=#dba400]:2.004335,'USA/CZB-RR057-005/2020'[&!color=#dba400]:1.002156)[&label="NODE_0000018",!color=#dba400]:0.0)[&label="NODE_0000015",!color=#dba400]:0.0)[&label="NODE_0000190",!color=#dba400]:0.99916)[&label="NODE_0000187",!color=#dba400]:0.99916)[&label="NODE_0000184",!color=#dba400]:0.99916)[&label="NODE_0000179",!color=#dba400]:0.999166,(('China/WH-09/2020':1.002151,(('Wuhan/WIV06/2019':0.0,'Wuhan/WIV04/2019':0.0)[&label="NODE_0000022"]:0.0,('Wuhan/IPBCAMS-WH-02/2019':0.0,'Wuhan/IPBCAMS-WH-04/2019':0.0)[&label="NODE_0000023"]:0.0)[&label="NODE_0000021"]:0.0)[&label="NODE_0000020"]:0.0,((('China/IQTC02/2020':1.002179,'China/IQTC03/2020':2.004394)[&label="NODE_0000178"]:1.998433,('Wuhan/YB012506/2020':0.0,('USA/WI1/2020':0.0)[&label="USA/WI1/2020_travel_history"]:0.0)[&label="NODE_0000027"]:0.0)[&label="NODE_0000176"]:0.999173,((('China/WHU01/2020':0.0,'China/WHU02/2020':0.0)[&label="NODE_0000030"]:0.0,(('USA/CA5/2020':0.0)[&label="USA/CA5/2020_travel_history"]:2.00437,('Taiwan/NTU02/2020':0.0)[&label="Taiwan/NTU02/2020_travel_history"]:2.004339)[&label="NODE_0000032"]:0.0)[&label="NODE_0000029"]:0.0,((('Nepal/61/2020':0.0)[&label="Nepal/61/2020_travel_history"]:1.002376,'Shanghai/SH01/2020':2.00437)[&label="NODE_0000034"]:0.0,('Wuhan/WH03/2020':0.0,('China/IQTC01/2020':2.00437,(('Vietnam/19-01S/2020':0.0,'Vietnam/19-02S/2020':0.0)[&label="NODE_0000172"]:0.999173,('USA/MN2-MDH2/2020':2.004338,(((('Hangzhou/HZ90/2020':0.0,'Hangzhou/HZ48/2020':0.0)[&label="NODE_0000047"]:0.0,('Hangzhou/HZ91/2020':0.0,'Hangzhou/HZ49/2020':0.0)[&label="NODE_0000048"]:0.0)[&label="NODE_0000046"]:0.0,(('Hangzhou/HZ60/2020':0.0,'Hangzhou/HZ62/2020':0.0)[&label="NODE_0000051"]:0.0,('Hangzhou/HZ79/2020':0.0,'USA/CT-Yale-001/2020':0.0)[&label="NODE_0000052"]:0.0)[&label="NODE_0000050"]:0.0)[&label="NODE_0000044"]:0.0,(((('Hangzhou/HZ185/2020':0.0,('USA/CA6/2020':0.0)[&label="USA/CA6/2020_travel_history"]:0.0)[&label="NODE_0000056"]:0.0,('Pakistan/Manga1/2020':0.0,'Hangzhou/HZ178/2020':0.0)[&label="NODE_0000057"]:0.0)[&label="NODE_0000055"]:0.0,(('Hangzhou/HZ477/2020':0.0,'Taiwan/CGMH-CGU-01/2020':0.0)[&label="NODE_0000059"]:0.0,(('Finland/1/2020':0.0)[&label="Finland/1/2020_travel_history"]:0.0,'Hangzhou/HZ162/2020':0.0)[&label="NODE_0000061"]:0.0)[&label="NODE_0000058"]:0.0)[&label="NODE_0000054"]:0.0,((('Hangzhou/HZ481/2020':0.0,'Hangzhou/HZ576/2020':0.0)[&label="NODE_0000066"]:0.0,('Hangzhou/HZ638/2020':0.0,'Hangzhou/HZ551/2020':0.0)[&label="NODE_0000067"]:0.0)[&label="NODE_0000064"]:0.0,(('Hangzhou/HZ-1/2020':0.0)[&label="Hangzhou/HZ-1/2020_travel_history"]:0.0,('USA/CA-CDPH-UC2/2020':1.002389,'USA/CA-CDPH-UC3/2020':1.002393,('USA/CA-CDPH-UC4/2020':0.0,'USA/CA9/2020':0.0)[&label="NODE_0000070"]:0.0)[&label="NODE_0000199"]:0.999173)[&label="NODE_0000068"]:0.0)[&label="NODE_0000062"]:0.0)[&label="NODE_0000053"]:0.0)[&label="NODE_0000043"]:0.0)[&label="NODE_0000042"]:0.0)[&label="NODE_0000039"]:0.0)[&label="NODE_0000038"]:0.0)[&label="NODE_0000035"]:0.0)[&label="NODE_0000033"]:0.0)[&label="NODE_0000028"]:0.0)[&label="NODE_0000024"]:0.0)[&label="NODE_0000019"]:0.0,(('Pakistan/Gilgit1/2020':0.0)[&label="Pakistan/Gilgit1/2020_travel_history"]:5.011482,(('Spain/Valencia7/2020'[&!color=#0065d9]:1.002614,'USA/WA-UW194/2020'[&!color=#0065d9]:4.009478,('USA/WA-UW258/2020'[&!color=#0065d9]:1.002503,('France/IDF2561/2020'[&!color=#0065d9]:1.002196,('USA/CZB-RR057-007/2020'[&!color=#0065d9]:1.002268,(('USA/WA-UW213/2020'[&!color=#0065d9]:0.0,'USA/WA-UW271/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000079",!color=#0065d9]:0.0,('USA/WA-UW322/2020'[&!color=#0065d9]:0.0,'France/IDF2792/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000080",!color=#0065d9]:0.0)[&label="NODE_0000078",!color=#0065d9]:0.0)[&label="NODE_0000077",!color=#0065d9]:0.0)[&label="NODE_0000076",!color=#0065d9]:0.0)[&label="NODE_0000075",!color=#0065d9]:0.0)[&label="NODE_0000005",!color=#0065d9]:2.998044,(('France/N2223/2020'[&!color=#0065d9]:0.0,'France/N1620/2020'[&!color=#0065d9]:1.002168)[&label="NODE_0000016",!color=#0065d9]:0.99919,((('France/IDF3212/2020'[&!color=#0065d9]:2.004984,('France/CVL3365/2020'[&!color=#0065d9]:1.00215,'Spain/Valencia1/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000000",!color=#0065d9]:0.99919)[&label="NODE_0000084",!color=#0065d9]:0.0,(('France/IDF2849/2020'[&!color=#0065d9]:0.0,'USA/WA-UW358/2020'[&!color=#0065d9]:1.002184)[&label="NODE_0000087",!color=#0065d9]:0.0,('USA/CA-PC101P/2020'[&!color=#0065d9]:1.002409,'France/GE1973/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000088",!color=#0065d9]:0.0)[&label="NODE_0000086",!color=#0065d9]:0.0)[&label="NODE_0000083",!color=#0065d9]:0.0,('USA/CT-Yale-006/2020'[&!color=#0065d9]:2.005566,('France/IDF3235/2020'[&!color=#0065d9]:2.004809,'France/CVL2000/2020'[&!color=#0065d9]:2.004918,'France/HF1870/2020'[&!color=#0065d9]:1.0022,'France/BFC2147/2020'[&!color=#0065d9]:1.0022,('France/BFC2709/2020'[&!color=#0065d9]:0.0,'France/BFC2094/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000031",!color=#0065d9]:0.999216,('France/IDF3230/2020'[&!color=#0065d9]:0.0,'France/IDF2278/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000036",!color=#0065d9]:0.999221,((('France/HF2496/2020'[&!color=#0065d9]:1.002425,'France/IDF3165/2020'[&!color=#0065d9]:1.002185)[&label="NODE_0000095",!color=#0065d9]:0.0,('France/GE3067/2020'[&!color=#0065d9]:1.0022,'France/IDF2848/2020'[&!color=#0065d9]:1.002185)[&label="NODE_0000096",!color=#0065d9]:0.0)[&label="NODE_0000094",!color=#0065d9]:0.0,('France/IDF2534/2020'[&!color=#0065d9]:1.002201,(('France/HF2196/2020'[&!color=#0065d9]:0.0,'France/HF2151/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000099",!color=#0065d9]:0.0,(('France/IDF2420/2020'[&!color=#0065d9]:0.0,'France/IDF2279/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000101",!color=#0065d9]:0.0,(('France/IDF2684/2020'[&!color=#0065d9]:0.0,'France/HF2797/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000103",!color=#0065d9]:0.0,('France/GE2720/2020'[&!color=#0065d9]:0.0,'France/GE2722/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000104",!color=#0065d9]:0.0)[&label="NODE_0000102",!color=#0065d9]:0.0)[&label="NODE_0000100",!color=#0065d9]:0.0)[&label="NODE_0000098",!color=#0065d9]:0.0)[&label="NODE_0000097",!color=#0065d9]:0.0)[&label="NODE_0000093",!color=#0065d9]:0.0)[&label="NODE_0000017",!color=#0065d9]:0.999204)[&label="NODE_0000089",!color=#0065d9]:0.0)[&label="NODE_0000082",!color=#0065d9]:0.0)[&label="NODE_0000071",!color=#0065d9]:0.0,((('France/HF1805/2020'[&!color=#0065d9]:1.002581,('France/B1623/2020'[&!color=#0065d9]:0.0,('USA/WA-UW331/2020'[&!color=#0065d9]:3.00712,('USA/WA-UW223/2020'[&!color=#0065d9]:0.0,('USA/WA-UW238/2020'[&!color=#0065d9]:0.0,'USA/WA-UW329/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000110",!color=#0065d9]:0.0)[&label="NODE_0000109",!color=#0065d9]:0.0)[&label="NODE_0000041",!color=#0065d9]:0.999198)[&label="NODE_0000107",!color=#0065d9]:0.0)[&label="NODE_0000106",!color=#0065d9]:0.0,('France/IDF3029/2020'[&!color=#0065d9]:3.006668,('France/GE1977/2020'[&!color=#0065d9]:3.006751,'France/GE2843/2020'[&!color=#0065d9]:4.009156,'France/HF2174/2020'[&!color=#0065d9]:2.004877,'France/IDF3170/2020'[&!color=#0065d9]:2.004998,'France/HF2155/2020'[&!color=#0065d9]:1.00242,('France/HF2948/2020'[&!color=#0065d9]:2.004478,'France/HF1993/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000049",!color=#0065d9]:0.999215,('France/HF1995/2020'[&!color=#0065d9]:0.0,'France/HF2239/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000060",!color=#0065d9]:0.999199,((('USA/WA-UW250/2020'[&!color=#0065d9]:1.003556,'France/IDF2768/2020'[&!color=#0065d9]:1.002364)[&label="NODE_0000117",!color=#0065d9]:0.0,('USA/WA-UW353/2020'[&!color=#0065d9]:1.002189,('France/HF2748/2020'[&!color=#0065d9]:0.0,'France/HF2597/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000121",!color=#0065d9]:0.0)[&label="NODE_0000119",!color=#0065d9]:0.0)[&label="NODE_0000116",!color=#0065d9]:0.0,(('France/HF1684/2020'[&!color=#0065d9]:0.0,('France/HF2060/2020'[&!color=#0065d9]:0.0,'France/IDF1980/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000126",!color=#0065d9]:0.0)[&label="NODE_0000125",!color=#0065d9]:0.0,('France/HF2393/2020'[&!color=#0065d9]:1.002364,('France/IDF2410/2020'[&!color=#0065d9]:0.0,('France/IDF2533/2020'[&!color=#0065d9]:0.0,'France/IDF2532/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000131",!color=#0065d9]:0.0)[&label="NODE_0000063",!color=#0065d9]:0.999209)[&label="NODE_0000128",!color=#0065d9]:0.0)[&label="NODE_0000123",!color=#0065d9]:0.0)[&label="NODE_0000114",!color=#0065d9]:0.0)[&label="NODE_0000045",!color=#0065d9]:0.999198)[&label="NODE_0000129",!color=#0065d9]:0.0)[&label="NODE_0000111",!color=#0065d9]:0.0,('France/B2330/2020'[&!color=#0065d9]:1.002421,'France/HF2234/2020'[&!color=#0065d9]:2.004426,'France/HF2405/2020'[&!color=#0065d9]:3.006783,'France/HF2039/2020'[&!color=#0065d9]:2.004874,'France/IDF3040/2020'[&!color=#0065d9]:3.008203,'France/HF1986/2020'[&!color=#0065d9]:3.007031,'France/IDF2075/2020'[&!color=#0065d9]:1.002421,'France/PL1643/2020'[&!color=#0065d9]:2.004424,'France/HF3036/2020'[&!color=#0065d9]:2.005712,'France/HF1813/2020'[&!color=#0065d9]:2.005976,'USA/WA-UW254/2020'[&!color=#0065d9]:2.004424,('France/B2351/2020'[&!color=#0065d9]:1.002211,'France/B2349/2020'[&!color=#0065d9]:0.0,'France/B2344/2020'[&!color=#0065d9]:1.002196)[&label="NODE_0000081",!color=#0065d9]:0.999217,('France/IDF3218/2020'[&!color=#0065d9]:2.005994,'France/IDF3163/2020'[&!color=#0065d9]:0.0,'France/IDF2936/2020'[&!color=#0065d9]:2.004446)[&label="NODE_0000108",!color=#0065d9]:1.998462,('France/HF2237/2020'[&!color=#0065d9]:1.002175,('France/HF3138/2020'[&!color=#0065d9]:1.002403,'France/HF2946/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000137",!color=#0065d9]:0.0)[&label="NODE_0000118",!color=#0065d9]:0.9992,('France/HF1988/2020'[&!color=#0065d9]:0.0,'France/HF3141/2020'[&!color=#0065d9]:4.009104,('France/HF1989/2020'[&!color=#0065d9]:0.0,'France/HF2601/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000115",!color=#0065d9]:1.998421)[&label="NODE_0000113",!color=#0065d9]:0.9992,('Algeria/G0860_2262/2020'[&!color=#0065d9]:1.002381,'France/IDF2256/2020'[&!color=#0065d9]:1.00221,('Algeria/2264/2020'[&!color=#0065d9]:3.007558,'Algeria/2265/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000122",!color=#0065d9]:0.999232,('France/HF1871/2020'[&!color=#0065d9]:0.0,'France/HF2595/2020'[&!color=#0065d9]:2.005005)[&label="NODE_0000124",!color=#0065d9]:1.99853)[&label="NODE_0000120",!color=#0065d9]:0.999215,('USA/WA-UW380/2020'[&!color=#0065d9]:7.01683,'USA/WA-UW257/2020'[&!color=#0065d9]:2.004642,'USA/WA-UW335/2020'[&!color=#0065d9]:2.004489,(('USA/WA-UW243/2020'[&!color=#0065d9]:1.002251,('USA/WA-UW326/2020'[&!color=#0065d9]:1.002227,('USA/WA-UW251/2020'[&!color=#0065d9]:0.0,'USA/WA-UW227/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000168",!color=#0065d9]:0.0)[&label="NODE_0000130",!color=#0065d9]:0.999232)[&label="NODE_0000145",!color=#0065d9]:0.0,(('USA/WA-UW264/2020'[&!color=#0065d9]:0.0,'USA/WA-UW266/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000134",!color=#0065d9]:0.999232,('USA/WA-UW196/2020'[&!color=#0065d9]:0.0,('USA/WA-UW252/2020'[&!color=#0065d9]:0.0,('USA/CZB-RR057-006/2020'[&!color=#0065d9]:0.0,'USA/WA-UW287/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000151",!color=#0065d9]:0.0)[&label="NODE_0000150",!color=#0065d9]:0.0)[&label="NODE_0000136",!color=#0065d9]:0.999215)[&label="NODE_0000147",!color=#0065d9]:0.0)[&label="NODE_0000144",!color=#0065d9]:0.0)[&label="NODE_0000127",!color=#0065d9]:0.999215,(((('USA/WA-UW256/2020'[&!color=#0065d9]:1.00218,'France/HF1645/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000155",!color=#0065d9]:0.0,(('France/B2335/2020'[&!color=#0065d9]:0.0,'France/B2336/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000158",!color=#0065d9]:0.0,('France/B2337/2020'[&!color=#0065d9]:0.0,'France/HF1795/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000159",!color=#0065d9]:0.0)[&label="NODE_0000157",!color=#0065d9]:0.0)[&label="NODE_0000154",!color=#0065d9]:0.0,((('USA/WA-UW291/2020'[&!color=#0065d9]:1.002189,'USA/WA-UW210/2020'[&!color=#0065d9]:1.002179)[&label="NODE_0000162",!color=#0065d9]:0.0,('France/HF2150/2020'[&!color=#0065d9]:1.002405,('USA/WA-UW203/2020'[&!color=#0065d9]:0.0,'France/HF2381/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000164",!color=#0065d9]:0.0)[&label="NODE_0000163",!color=#0065d9]:0.0)[&label="NODE_0000161",!color=#0065d9]:0.0,(('France/B2348/2020'[&!color=#0065d9]:1.002405,'USA/WA-UW389/2020'[&!color=#0065d9]:2.004412)[&label="NODE_0000166",!color=#0065d9]:0.0,('USA/CZB-RR057-015/2020'[&!color=#0065d9]:1.002272,('USA/CZB-RR057-013/2020'[&!color=#0065d9]:0.0,'USA/WA-UW351/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000105",!color=#0065d9]:0.999215)[&label="NODE_0000167",!color=#0065d9]:0.0)[&label="NODE_0000165",!color=#0065d9]:0.0)[&label="NODE_0000160",!color=#0065d9]:0.0)[&label="NODE_0000153",!color=#0065d9]:0.0,('France/HF1463/2020'[&!color=#0065d9]:0.0,((('France/HF2586/2020'[&!color=#0065d9]:1.002195,'USA/CZB-RR057-014/2020'[&!color=#0065d9]:1.002815)[&label="NODE_0000175",!color=#0065d9]:0.0,('USA/WA-UW348/2020'[&!color=#0065d9]:2.004445,'USA/WA-UW328/2020'[&!color=#0065d9]:2.004426)[&label="NODE_0000177",!color=#0065d9]:0.0)[&label="NODE_0000174",!color=#0065d9]:0.0,((('France/B2346/2020'[&!color=#0065d9]:0.0,'France/B2343/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000183",!color=#0065d9]:0.0,(('USA/WA-UW359/2020'[&!color=#0065d9]:1.002195,'France/IDF2989/2020'[&!color=#0065d9]:1.002217)[&label="NODE_0000189",!color=#0065d9]:0.0,(('USA/WA-UW259/2020'[&!color=#0065d9]:0.0,'USA/WA-UW352/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000192",!color=#0065d9]:0.0,(('USA/WA-UW272/2020'[&!color=#0065d9]:0.0,'USA/WA-UW224/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000194",!color=#0065d9]:0.0,('USA/CZB-RR057-011/2020'[&!color=#0065d9]:0.0,'USA/WA-UW273/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000195",!color=#0065d9]:0.0)[&label="NODE_0000193",!color=#0065d9]:0.0)[&label="NODE_0000191",!color=#0065d9]:0.0)[&label="NODE_0000185",!color=#0065d9]:0.0)[&label="NODE_0000182",!color=#0065d9]:0.0,('France/IDF2284/2020'[&!color=#0065d9]:1.002289,('USA/WA-UW312/2020'[&!color=#0065d9]:3.010254,('USA/WA-UW269/2020'[&!color=#0065d9]:0.0,'USA/WA-UW296/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000148",!color=#0065d9]:0.999233,('USA/WA-UW388/2020'[&!color=#0065d9]:0.0,('USA/WA-UW310/2020'[&!color=#0065d9]:0.0,('USA/WA-UW240/2020'[&!color=#0065d9]:0.0,'USA/WA-UW365/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000226",!color=#0065d9]:0.0)[&label="NODE_0000222",!color=#0065d9]:0.0)[&label="NODE_0000156",!color=#0065d9]:0.999226,('USA/WA-UW337/2020'[&!color=#0065d9]:1.002211,('USA/WA-UW233/2020'[&!color=#0065d9]:0.0,('USA/WA-UW192/2020'[&!color=#0065d9]:0.0,('USA/WA-UW362/2020'[&!color=#0065d9]:0.0,('USA/WA-UW288/2020'[&!color=#0065d9]:0.0,('USA/WA-UW241/2020'[&!color=#0065d9]:0.0,('USA/WA-UW268/2020'[&!color=#0065d9]:0.0,('USA/WA-UW386/2020'[&!color=#0065d9]:0.0,('USA/WA-UW193/2020'[&!color=#0065d9]:0.0,('USA/WA-UW366/2020'[&!color=#0065d9]:0.0,('USA/WA-UW313/2020'[&!color=#0065d9]:0.0,('USA/WA-UW237/2020'[&!color=#0065d9]:0.0,('USA/WA-UW357/2020'[&!color=#0065d9]:0.0,('USA/WA-UW282/2020'[&!color=#0065d9]:0.0,('USA/WA-UW356/2020'[&!color=#0065d9]:0.0,('USA/WA-UW333/2020'[&!color=#0065d9]:0.0,('USA/WA-UW327/2020'[&!color=#0065d9]:0.0,('USA/WA-UW308/2020'[&!color=#0065d9]:0.0,('USA/WA-UW307/2020'[&!color=#0065d9]:0.0,('USA/WA-UW248/2020'[&!color=#0065d9]:0.0,'USA/WA-UW346/2020'[&!color=#0065d9]:0.0)[&label="NODE_0000220",!color=#0065d9]:0.0)[&label="NODE_0000219",!color=#0065d9]:0.0)[&label="NODE_0000218",!color=#0065d9]:0.0)[&label="NODE_0000216",!color=#0065d9]:0.0)[&label="NODE_0000215",!color=#0065d9]:0.0)[&label="NODE_0000214",!color=#0065d9]:0.0)[&label="NODE_0000213",!color=#0065d9]:0.0)[&label="NODE_0000212",!color=#0065d9]:0.0)[&label="NODE_0000211",!color=#0065d9]:0.0)[&label="NODE_0000210",!color=#0065d9]:0.0)[&label="NODE_0000209",!color=#0065d9]:0.0)[&label="NODE_0000208",!color=#0065d9]:0.0)[&label="NODE_0000207",!color=#0065d9]:0.0)[&label="NODE_0000206",!color=#0065d9]:0.0)[&label="NODE_0000205",!color=#0065d9]:0.0)[&label="NODE_0000204",!color=#0065d9]:0.0)[&label="NODE_0000203",!color=#0065d9]:0.0)[&label="NODE_0000202",!color=#0065d9]:0.0)[&label="NODE_0000201",!color=#0065d9]:0.0)[&label="NODE_0000228",!color=#0065d9]:0.0)[&label="NODE_0000140",!color=#0065d9]:0.999217)[&label="NODE_0000197",!color=#0065d9]:0.0)[&label="NODE_0000181",!color=#0065d9]:0.0)[&label="NODE_0000173",!color=#0065d9]:0.0)[&label="NODE_0000169",!color=#0065d9]:0.0)[&label="NODE_0000152",!color=#0065d9]:0.0)[&label="NODE_0000065",!color=#0065d9]:0.999198)[&label="NODE_0000037",!color=#0065d9]:0.999199)[&label="NODE_0000001",!color=#0065d9]:2.997717)[&label="NODE_0000170"]:0.999173,('China/IQTC04/2020'[&!color=#00d90b]:2.00437,'India/166/2020'[&!color=#00d90b]:4.008944,('Beijing/233/2020'[&!color=#00d90b]:1.00215,('Beijing/231/2020'[&!color=#00d90b]:0.0,('Beijing/235/2020'[&!color=#00d90b]:0.0,'Beijing/105/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000225",!color=#00d90b]:0.0)[&label="NODE_0000224",!color=#00d90b]:0.0)[&label="NODE_0000257",!color=#00d90b]:1.998366,('Shenzhen/HKU-SZ-005/2020'[&!color=#00d90b]:2.00437,('USA/TX1/2020'[&!color=#00d90b]:0.0)[&label="USA/TX1/2020_travel_history"]:4.009172,('Shenzhen/HKU-SZ-002/2020'[&!color=#00d90b]:0.0,('USA/AZ1/2020'[&!color=#00d90b]:0.0)[&label="USA/AZ1/2020_travel_history"]:1.002163)[&label="NODE_0000227",!color=#00d90b]:0.0)[&label="NODE_0000262",!color=#00d90b]:0.999173,(('USA/CA1/2020'[&!color=#00d90b]:0.0)[&label="USA/CA1/2020_travel_history"]:2.004377,(('USA/IL2/2020'[&!color=#00d90b]:0.0)[&label="USA/IL2/2020_travel_history"]:0.0,('USA/WA-UW330/2020'[&!color=#00d90b]:4.009336,('USA/WA-UW260/2020'[&!color=#00d90b]:2.00436,'USA/WA-UW301/2020'[&!color=#00d90b]:3.007025)[&label="NODE_0000253",!color=#00d90b]:0.999156)[&label="NODE_0000252",!color=#00d90b]:1.99838)[&label="NODE_0000251",!color=#00d90b]:1.998457)[&label="NODE_0000250",!color=#00d90b]:2.99789,('France/GE1583/2020'[&!color=#00d90b]:1.002217,'Spain/Valencia6/2020'[&!color=#00d90b]:1.002678,'Spain/Valencia9/2020'[&!color=#00d90b]:7.034747,(('Spain/Valencia5/2020'[&!color=#00d90b]:0.0,'Spain/Valencia4/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000234",!color=#00d90b]:0.0,(('Spain/Valencia3/2020'[&!color=#00d90b]:0.0,'Spain/Valencia8/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000236",!color=#00d90b]:0.0,('Spain/Valencia2/2020'[&!color=#00d90b]:1.003616,'Spain/Valencia10/2020'[&!color=#00d90b]:1.004779)[&label="NODE_0000237",!color=#00d90b]:0.0)[&label="NODE_0000235",!color=#00d90b]:0.0)[&label="NODE_0000233",!color=#00d90b]:0.0)[&label="NODE_0000266",!color=#00d90b]:4.996711,(('Yunnan/IVDC-YN-003/2020'[&!color=#00d90b]:1.002146,('Wuhan/WH04/2020'[&!color=#00d90b]:0.0,((('USA/CA7/2020'[&!color=#00d90b]:0.0)[&label="USA/CA7/2020_travel_history"]:0.0,'USA/WA-UW303/2020'[&!color=#00d90b]:2.004863)[&label="NODE_0000256",!color=#00d90b]:1.998416,('Colombia/79256/2020'[&!color=#00d90b]:3.009173,(('USA/IL1/2020'[&!color=#00d90b]:0.0)[&label="USA/IL1/2020_travel_history"]:0.0,('Taiwan/NTU01/2020'[&!color=#00d90b]:0.0)[&label="Taiwan/NTU01/2020_travel_history"]:0.0)[&label="NODE_0000244",!color=#00d90b]:0.0)[&label="NODE_0000243",!color=#00d90b]:0.0)[&label="NODE_0000241",!color=#00d90b]:0.0)[&label="NODE_0000240",!color=#00d90b]:0.0)[&label="NODE_0000239",!color=#00d90b]:0.0,(('USA/WA1/2020'[&!color=#00d90b]:0.0)[&label="USA/WA1/2020_travel_history"]:0.0,('USA/CT-Yale-005/2020'[&!color=#00d90b]:0.0,('USA/CT-Yale-007/2020'[&!color=#00d90b]:0.0,'USA/CT-Yale-008/2020'[&!color=#00d90b]:1.003689)[&label="NODE_0000283",!color=#00d90b]:2.99757,('USA/WA7-UW4/2020'[&!color=#00d90b]:1.002152,'USA/WA-UW290/2020'[&!color=#00d90b]:2.005128,'USA/WA-UW199/2020'[&!color=#00d90b]:4.009491,('USA/MN3-MDH3/2020'[&!color=#00d90b]:0.0)[&label="USA/MN3-MDH3/2020_travel_history"]:5.012451,'USA/CA-CDPH-UC1/2020'[&!color=#00d90b]:2.004851,'USA/WA-UW245/2020'[&!color=#00d90b]:2.004479,'USA/WA-UW234/2020'[&!color=#00d90b]:2.004404,'USA/WA-UW255/2020'[&!color=#00d90b]:2.005186,'USA/WA-UW228/2020'[&!color=#00d90b]:2.004513,'USA/WA-UW277/2020'[&!color=#00d90b]:5.011415,'USA/WA-UW265/2020'[&!color=#00d90b]:2.004373,'USA/WA-UW217/2020'[&!color=#00d90b]:2.004393,'USA/WA-UW261/2020'[&!color=#00d90b]:3.006642,('USA/WA-UW374/2020'[&!color=#00d90b]:0.0,'USA/WA-UW297/2020'[&!color=#00d90b]:3.007015)[&label="NODE_0000287",!color=#00d90b]:2.997699,('USA/WA-UW355/2020'[&!color=#00d90b]:0.0,'USA/WA-UW379/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000303",!color=#00d90b]:2.997784,('USA/CA-CDPH-UC6/2020'[&!color=#00d90b]:0.0,'USA/CA-CDPH-UC5/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000371",!color=#00d90b]:1.998431,('USA/WA-UW219/2020'[&!color=#00d90b]:2.004424,'USA/WA-UW202/2020'[&!color=#00d90b]:2.004426)[&label="NODE_0000400",!color=#00d90b]:0.999187,('USA/WA-UW371/2020'[&!color=#00d90b]:1.002443,'USA/WA-UW341/2020'[&!color=#00d90b]:3.006657)[&label="NODE_0000403",!color=#00d90b]:1.99841,('USA/WA-UW387/2020'[&!color=#00d90b]:6.017308,('USA/WA-UW304/2020'[&!color=#00d90b]:0.0,'USA/WA-UW302/2020'[&!color=#00d90b]:1.002601)[&label="NODE_0000258",!color=#00d90b]:0.0)[&label="NODE_0000293",!color=#00d90b]:0.999265,('USA/WA-UW216/2020'[&!color=#00d90b]:1.002184,('USA/WA-UW242/2020'[&!color=#00d90b]:2.004472,'USA/WA-UW200/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000385",!color=#00d90b]:0.999204)[&label="NODE_0000384",!color=#00d90b]:0.999187,('USA/CA-CDPH-UC7/2020'[&!color=#00d90b]:0.0,('USA/CA-CDPH-UC8/2020'[&!color=#00d90b]:1.003068,('USA/UC-CDPH-UC11/2020'[&!color=#00d90b]:0.0,'USA/CA-CDPH-UC9/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000263",!color=#00d90b]:0.0)[&label="NODE_0000299",!color=#00d90b]:0.999166)[&label="NODE_0000298",!color=#00d90b]:2.997667,(('USA/WA-UW334/2020'[&!color=#00d90b]:0.0,'USA/WA-UW381/2020'[&!color=#00d90b]:2.005488)[&label="NODE_0000350",!color=#00d90b]:0.999204,('USA/WA-UW231/2020'[&!color=#00d90b]:0.0,'USA/WA-UW204/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000351",!color=#00d90b]:0.999207)[&label="NODE_0000349",!color=#00d90b]:0.999187,('USA/WA-UW218/2020'[&!color=#00d90b]:3.006687,'USA/WA-UW336/2020'[&!color=#00d90b]:1.002156,'USA/WA-UW214/2020'[&!color=#00d90b]:2.004347,'USA/WA-UW314/2020'[&!color=#00d90b]:2.004347)[&label="NODE_0000374",!color=#00d90b]:0.999182,('USA/WA-UW198/2020'[&!color=#00d90b]:2.004424,'USA/WA2/2020'[&!color=#00d90b]:0.0,'USA/WA8-UW5/2020'[&!color=#00d90b]:2.004692,('USA/WA-UW316/2020'[&!color=#00d90b]:2.005289,'USA/WA9-UW6/2020'[&!color=#00d90b]:1.003061)[&label="NODE_0000331",!color=#00d90b]:0.999207)[&label="NODE_0000328",!color=#00d90b]:0.999187,('USA/WA-UW208/2020'[&!color=#00d90b]:1.002474,'USA/WA-UW342/2020'[&!color=#00d90b]:2.004447,'USA/WA-UW305/2020'[&!color=#00d90b]:1.00223,'USA/WA-UW363/2020'[&!color=#00d90b]:2.004447,('USA/WA-UW367/2020'[&!color=#00d90b]:0.0,'USA/WA-UW225/2020'[&!color=#00d90b]:1.002174)[&label="NODE_0000358",!color=#00d90b]:0.999193)[&label="NODE_0000354",!color=#00d90b]:1.998443,('USA/WA-UW378/2020'[&!color=#00d90b]:2.004459,'USA/WA-UW205/2020'[&!color=#00d90b]:1.002152,'USA/WA-UW368/2020'[&!color=#00d90b]:2.004373,('USA/CT-Yale-003/2020'[&!color=#00d90b]:0.0,('USA/WA-UW289/2020'[&!color=#00d90b]:0.0,'USA/WA-UW195/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000274",!color=#00d90b]:0.0)[&label="NODE_0000273",!color=#00d90b]:0.0)[&label="NODE_0000431",!color=#00d90b]:0.999172,('USA/WA-UW382/2020'[&!color=#00d90b]:0.0,('USA/WA-UW370/2020'[&!color=#00d90b]:1.002169,'USA/WA-UW207/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000338",!color=#00d90b]:0.999172,('USA/WA-UW239/2020'[&!color=#00d90b]:2.004405,'USA/WA-UW361/2020'[&!color=#00d90b]:2.00437,('USA/WA-UW390/2020'[&!color=#00d90b]:0.0,('USA/WA-UW221/2020'[&!color=#00d90b]:0.0,'USA/WA-UW232/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000279",!color=#00d90b]:0.0)[&label="NODE_0000278",!color=#00d90b]:0.0)[&label="NODE_0000340",!color=#00d90b]:0.999173)[&label="NODE_0000337",!color=#00d90b]:0.999173,(('USA/WA-UW292/2020'[&!color=#00d90b]:0.0,'USA/WA-UW270/2020'[&!color=#00d90b]:1.002547)[&label="NODE_0000297",!color=#00d90b]:0.99919,(((('USA/WA4-UW2/2020'[&!color=#00d90b]:0.0,'USA/WA6-UW3/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000288",!color=#00d90b]:0.0,('USA/WA-UW321/2020'[&!color=#00d90b]:2.005646,('USA/WA-UW286/2020'[&!color=#00d90b]:1.002278,'USA/WA-UW323/2020'[&!color=#00d90b]:1.002152,'USA/WA-UW332/2020'[&!color=#00d90b]:1.002152,('USA/WA-UW338/2020'[&!color=#00d90b]:0.0,'USA/WA-UW244/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000291",!color=#00d90b]:0.0)[&label="NODE_0000333",!color=#00d90b]:0.999173)[&label="NODE_0000289",!color=#00d90b]:0.0)[&label="NODE_0000286",!color=#00d90b]:0.0,((('USA/WA-UW350/2020'[&!color=#00d90b]:0.0,'USA/WA-UW278/2020'[&!color=#00d90b]:1.00303)[&label="NODE_0000388",!color=#00d90b]:0.999187,('USA/WA-UW383/2020'[&!color=#00d90b]:1.002338,'USA/WA-UW325/2020'[&!color=#00d90b]:1.002168)[&label="NODE_0000296",!color=#00d90b]:0.0)[&label="NODE_0000294",!color=#00d90b]:0.0,('USA/WA-UW384/2020'[&!color=#00d90b]:2.00437,(('USA/WA-UW229/2020'[&!color=#00d90b]:0.0,'USA/WA-UW317/2020'[&!color=#00d90b]:1.002385)[&label="NODE_0000381",!color=#00d90b]:0.999199,('USA/WA-UW344/2020'[&!color=#00d90b]:0.0,'USA/WA-UW220/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000304",!color=#00d90b]:0.0)[&label="NODE_0000379",!color=#00d90b]:0.999187)[&label="NODE_0000300",!color=#00d90b]:0.0)[&label="NODE_0000292",!color=#00d90b]:0.0)[&label="NODE_0000285",!color=#00d90b]:0.0,(((('USA/WA-UW235/2020'[&!color=#00d90b]:1.002161,'USA/WA-UW212/2020'[&!color=#00d90b]:1.002168)[&label="NODE_0000308",!color=#00d90b]:0.0,('USA/WA-UW236/2020'[&!color=#00d90b]:1.002168,'USA/WA-UW284/2020'[&!color=#00d90b]:1.002169)[&label="NODE_0000309",!color=#00d90b]:0.0)[&label="NODE_0000307",!color=#00d90b]:0.0,((('USA/WA-UW279/2020'[&!color=#00d90b]:1.002152,'USA/WA-UW226/2020'[&!color=#00d90b]:1.00253)[&label="NODE_0000312",!color=#00d90b]:0.0,('USA/WA-UW340/2020'[&!color=#00d90b]:1.002244,('USA/WA-UW320/2020'[&!color=#00d90b]:1.002186,('USA/WA-UW339/2020'[&!color=#00d90b]:0.0,'USA/WA-UW385/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000315",!color=#00d90b]:0.0)[&label="NODE_0000290",!color=#00d90b]:0.99919)[&label="NODE_0000313",!color=#00d90b]:0.0)[&label="NODE_0000311",!color=#00d90b]:0.0,('USA/CT-Yale-009/2020'[&!color=#00d90b]:1.002601,('USA/WA-UW215/2020'[&!color=#00d90b]:1.002146,('USA/WA-NH10/2020'[&!color=#00d90b]:0.0,('USA/WA-NH18/2020'[&!color=#00d90b]:0.0,('USA/WA-NH2/2020'[&!color=#00d90b]:0.0,('USA/WA-NH9/2020'[&!color=#00d90b]:0.0,('USA/WA-NH3/2020'[&!color=#00d90b]:0.0,('USA/WA-NH4/2020'[&!color=#00d90b]:0.0,('USA/WA-NH12/2020'[&!color=#00d90b]:0.0,('USA/WA-NH8/2020'[&!color=#00d90b]:0.0,'USA/WA-NH17/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000325",!color=#00d90b]:0.0)[&label="NODE_0000324",!color=#00d90b]:0.0)[&label="NODE_0000323",!color=#00d90b]:0.0)[&label="NODE_0000322",!color=#00d90b]:0.0)[&label="NODE_0000321",!color=#00d90b]:0.0)[&label="NODE_0000320",!color=#00d90b]:0.0)[&label="NODE_0000319",!color=#00d90b]:0.0)[&label="NODE_0000318",!color=#00d90b]:0.0)[&label="NODE_0000359",!color=#00d90b]:0.999173)[&label="NODE_0000316",!color=#00d90b]:0.0)[&label="NODE_0000310",!color=#00d90b]:0.0)[&label="NODE_0000306",!color=#00d90b]:0.0,((('USA/WA-UW222/2020'[&!color=#00d90b]:1.002152,'USA/WA-NH13/2020'[&!color=#00d90b]:1.002161)[&label="NODE_0000329",!color=#00d90b]:0.0,('USA/WA-UW211/2020'[&!color=#00d90b]:1.002207,('USA/WA-UW293/2020'[&!color=#00d90b]:0.0,'USA/WA-UW280/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000421",!color=#00d90b]:0.999187)[&label="NODE_0000330",!color=#00d90b]:0.0)[&label="NODE_0000327",!color=#00d90b]:0.0,(('USA/WA-UW201/2020'[&!color=#00d90b]:1.002222,'USA/WA-NH5/2020'[&!color=#00d90b]:1.002152)[&label="NODE_0000334",!color=#00d90b]:0.0,((((('USA/WA-NH22/2020'[&!color=#00d90b]:0.0,'USA/WA-NH20/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000342",!color=#00d90b]:0.0,('USA/WA-NH24/2020'[&!color=#00d90b]:0.0,'USA/WA-NH14/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000343",!color=#00d90b]:0.0)[&label="NODE_0000341",!color=#00d90b]:0.0,(('USA/WA-NH11/2020'[&!color=#00d90b]:0.0,'USA/WA-NH6/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000345",!color=#00d90b]:0.0,('USA/WA-NH19/2020'[&!color=#00d90b]:0.0,'USA/WA-NH21/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000346",!color=#00d90b]:0.0)[&label="NODE_0000344",!color=#00d90b]:0.0)[&label="NODE_0000339",!color=#00d90b]:0.0,((('USA/WA-UW253/2020'[&!color=#00d90b]:0.0,'USA/WA-UW262/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000352",!color=#00d90b]:0.0,('USA/WA-UW294/2020'[&!color=#00d90b]:0.0,'USA/WA-UW249/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000353",!color=#00d90b]:0.0)[&label="NODE_0000348",!color=#00d90b]:0.0,(('USA/WA-UW209/2020'[&!color=#00d90b]:0.0,'USA/WA-NH23/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000356",!color=#00d90b]:0.0,('USA/WA-UW206/2020'[&!color=#00d90b]:0.0,'USA/WA-NH7/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000357",!color=#00d90b]:0.0)[&label="NODE_0000355",!color=#00d90b]:0.0)[&label="NODE_0000347",!color=#00d90b]:0.0)[&label="NODE_0000336",!color=#00d90b]:0.0,((('USA/WA-UW372/2020'[&!color=#00d90b]:1.002152,'USA/CT-Yale-002/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000362",!color=#00d90b]:0.0,(('USA/WA-UW276/2020'[&!color=#00d90b]:0.0,'USA/WA-UW274/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000364",!color=#00d90b]:0.0,(('USA/WA-UW343/2020'[&!color=#00d90b]:0.0,'USA/WA-UW298/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000366",!color=#00d90b]:0.0,('USA/WA-UW299/2020'[&!color=#00d90b]:0.0,'USA/WA-UW347/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000367",!color=#00d90b]:0.0)[&label="NODE_0000365",!color=#00d90b]:0.0)[&label="NODE_0000363",!color=#00d90b]:0.0)[&label="NODE_0000361",!color=#00d90b]:0.0,(((('USA/WA-UW263/2020'[&!color=#00d90b]:0.0,'USA/WA-UW267/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000372",!color=#00d90b]:0.0,('USA/WA-UW246/2020'[&!color=#00d90b]:0.0,'USA/WA-UW360/2020'[&!color=#00d90b]:1.002152)[&label="NODE_0000373",!color=#00d90b]:0.0)[&label="NODE_0000370",!color=#00d90b]:0.0,(('USA/WA-UW364/2020'[&!color=#00d90b]:0.0,'USA/WA-UW315/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000376",!color=#00d90b]:0.0,('USA/CT-Yale-010/2020'[&!color=#00d90b]:0.0,'USA/WA-UW285/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000377",!color=#00d90b]:0.0)[&label="NODE_0000375",!color=#00d90b]:0.0)[&label="NODE_0000369",!color=#00d90b]:0.0,((('USA/WA-UW345/2020'[&!color=#00d90b]:0.0,'USA/WA-UW376/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000382",!color=#00d90b]:0.0,('USA/WA-UW369/2020'[&!color=#00d90b]:0.0,'USA/WA-UW375/2020'[&!color=#00d90b]:0.0)[&label="NODE_0000383",!color=#00d90b]:0.0)[&label="NODE_0000380",!color=#00d90b]:0.0,(('USA/WA-UW300/2020'[&!color=#00d90b]:1.002161,'USA/WA-UW354/2020'[&!color=#00d90b]:1.002168)[&label="NODE_0000387",!color=#00d90b]:0.0,('USA/WA-UW319/2020'[&!color=#00d90b]:1.002169,'USA/WA-UW373/2020'[&!color=#00d90b]:1.002392)[&label="NODE_0000389",!color=#00d90b]:0.0)[&label="NODE_0000386",!color=#00d90b]:0.0)[&label="NODE_0000378",!color=#00d90b]:0.0)[&label="NODE_0000368",!color=#00d90b]:0.0)[&label="NODE_0000360",!color=#00d90b]:0.0)[&label="NODE_0000335",!color=#00d90b]:0.0)[&label="NODE_0000332",!color=#00d90b]:0.0)[&label="NODE_0000326",!color=#00d90b]:0.0)[&label="NODE_0000305",!color=#00d90b]:0.0)[&label="NODE_0000282",!color=#00d90b]:0.0)[&label="NODE_0000314",!color=#00d90b]:0.0)[&label="NODE_0000284",!color=#00d90b]:0.999172)[&label="NODE_0000281",!color=#00d90b]:0.999174)[&label="NODE_0000280",!color=#00d90b]:0.999173)[&label="NODE_0000238",!color=#00d90b]:0.0)[&label="NODE_0000249",!color=#00d90b]:1.998378)[&label="NODE_0000171"]:0.0)[&label="NODE_0000002"];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=168;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=false;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=true;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=false;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=false;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=2.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=2;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
