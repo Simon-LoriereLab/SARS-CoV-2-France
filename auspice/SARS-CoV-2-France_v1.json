@@ -583,7 +583,7 @@
         "type": "categorical"
       }
     ],
-    "description": "",
+    "description": "Preprint manuscript at https://doi.org/10.1101/2020.04.24.059576",
     "display_defaults": {
       "branch_label": "none",
       "color_by": "division",
