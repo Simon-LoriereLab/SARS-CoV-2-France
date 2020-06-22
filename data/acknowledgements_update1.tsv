@@ -1,0 +1,970 @@
+strain	gisaid_epi_isl	genbank_accession	originating_lab	submitting_lab	authors
+Algeria/G0638_2264/2020	EPI_ISL_418241	?	NIC Viral Respiratory Unit - Institut Pasteur of Algeria	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+Algeria/G0640_2265/2020	EPI_ISL_418242	?	NIC Viral Respiratory Unit - Institut Pasteur of Algeria	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+Algeria/G0860_2262/2020	EPI_ISL_420037	?	NIC Viral Respiratory Unit - Institut Pasteur of Algeria	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/10001DM/2020	EPI_ISL_447717	?	unknown	Genomic platform	De Prost et al
+France/10002PM/2020	EPI_ISL_447721	?	unknown	Genomic platform	De Prost et al
+France/10003SN/2020	EPI_ISL_447719	?	unknown	Genomic platform	De Prost et al
+France/10004CF/2020	EPI_ISL_447695	?	unknown	Genomic platform	De Prost et al
+France/10006HC/2020	EPI_ISL_447727	?	unknown	Genomic platform	De Prost et al
+France/10007LJ/2020	EPI_ISL_447725	?	unknown	Genomic platform	De Prost et al
+France/10008DM/2020	EPI_ISL_447697	?	unknown	Genomic platform	De Prost et al
+France/10009EE/2020	EPI_ISL_447696	?	unknown	Genomic platform	De Prost et al
+France/10010LA/2020	EPI_ISL_447699	?	unknown	Genomic platform	De Prost et al
+France/10011AS/2020	EPI_ISL_447713	?	unknown	Genomic platform	De Prost et al
+France/10012BM/2020	EPI_ISL_447709	?	unknown	Genomic platform	De Prost et al
+France/10013BA/2020	EPI_ISL_447711	?	unknown	Genomic platform	De Prost et al
+France/10014BC/2020	EPI_ISL_447700	?	unknown	Genomic platform	De Prost et al
+France/10015BY/2020	EPI_ISL_447708	?	unknown	Genomic platform	De Prost et al
+France/10016DC/2020	EPI_ISL_447707	?	unknown	Genomic platform	De Prost et al
+France/10017GS/2020	EPI_ISL_447710	?	unknown	Genomic platform	De Prost et al
+France/10018HJ/2020	EPI_ISL_447703	?	unknown	Genomic platform	De Prost et al
+France/10019LM/2020	EPI_ISL_447702	?	unknown	Genomic platform	De Prost et al
+France/10020MM/2020	EPI_ISL_447704	?	unknown	Genomic platform	De Prost et al
+France/10021SB/2020	EPI_ISL_447712	?	unknown	Genomic platform	De Prost et al
+France/10022AR/2020	EPI_ISL_447715	?	unknown	Genomic platform	De Prost et al
+France/10023FD/2020	EPI_ISL_447714	?	unknown	Genomic platform	De Prost et al
+France/10025GM/2020	EPI_ISL_447720	?	unknown	Genomic platform	De Prost et al
+France/10026SL/2020	EPI_ISL_447722	?	unknown	Genomic platform	De Prost et al
+France/10027AA/2020	EPI_ISL_447654	?	unknown	Genomic platform	De Prost et al
+France/10028CD/2020	EPI_ISL_447726	?	unknown	Genomic platform	De Prost et al
+France/10029DT/2020	EPI_ISL_447669	?	unknown	Genomic platform	De Prost et al
+France/10030NV/2020	EPI_ISL_447663	?	unknown	Genomic platform	De Prost et al
+France/10031BS/2020	EPI_ISL_447670	?	unknown	Genomic platform	De Prost et al
+France/10032KL/2020	EPI_ISL_447672	?	unknown	Genomic platform	De Prost et al
+France/10033ZM/2020	EPI_ISL_447674	?	unknown	Genomic platform	De Prost et al
+France/10034HM/2020	EPI_ISL_447675	?	unknown	Genomic platform	De Prost et al
+France/10036BG/2020	EPI_ISL_447660	?	unknown	Genomic platform	De Prost et al
+France/10037CJ/2020	EPI_ISL_447661	?	unknown	Genomic platform	De Prost et al
+France/10040LJ/2020	EPI_ISL_447664	?	unknown	Genomic platform	De Prost et al
+France/10041MR/2020	EPI_ISL_447665	?	unknown	Genomic platform	De Prost et al
+France/10045DZ/2020	EPI_ISL_447677	?	unknown	Genomic platform	De Prost et al
+France/10046GM/2020	EPI_ISL_447668	?	unknown	Genomic platform	De Prost et al
+France/10048SA/2020	EPI_ISL_447667	?	unknown	Genomic platform	De Prost et al
+France/10050RA/2020	EPI_ISL_447676	?	unknown	Genomic platform	De Prost et al
+France/10051SM/2020	EPI_ISL_447678	?	unknown	Genomic platform	De Prost et al
+France/10053BP/2020	EPI_ISL_447728	?	unknown	Genomic platform	De Prost et al
+France/10057CJ/2020	EPI_ISL_447688	?	unknown	Genomic platform	De Prost et al
+France/10059IS/2020	EPI_ISL_447690	?	unknown	Genomic platform	De Prost et al
+France/10060KV/2020	EPI_ISL_447683	?	unknown	Genomic platform	De Prost et al
+France/10062MD/2020	EPI_ISL_447689	?	unknown	Genomic platform	De Prost et al
+France/10063BI/2020	EPI_ISL_447679	?	unknown	Genomic platform	De Prost et al
+France/10064DR/2020	EPI_ISL_447729	?	unknown	Genomic platform	De Prost et al
+France/10065EE/2020	EPI_ISL_447730	?	unknown	Genomic platform	De Prost et al
+France/10066GJ/2020	EPI_ISL_447680	?	unknown	Genomic platform	De Prost et al
+France/10068ND/2020	EPI_ISL_447691	?	unknown	Genomic platform	De Prost et al
+France/10069NM/2020	EPI_ISL_447681	?	unknown	Genomic platform	De Prost et al
+France/10070SK/2020	EPI_ISL_447731	?	unknown	Genomic platform	De Prost et al
+France/10071BR/2020	EPI_ISL_447682	?	unknown	Genomic platform	De Prost et al
+France/10072CG/2020	EPI_ISL_447685	?	unknown	Genomic platform	De Prost et al
+France/10074LD/2020	EPI_ISL_447684	?	unknown	Genomic platform	De Prost et al
+France/10076MH/2020	EPI_ISL_447686	?	unknown	Genomic platform	De Prost et al
+France/10078MA/2020	EPI_ISL_447687	?	unknown	Genomic platform	De Prost et al
+France/10080AA/2020	EPI_ISL_447701	?	unknown	Genomic platform	De Prost et al
+France/20001SE/2020	EPI_ISL_447666	?	unknown	Genomic platform	De Prost et al
+France/30001MB/2020	EPI_ISL_447723	?	unknown	Genomic platform	De Prost et al
+France/40002VJ/2020	EPI_ISL_447733	?	unknown	Genomic platform	De Prost et al
+France/40003KA/2020	EPI_ISL_447724	?	unknown	Genomic platform	De Prost et al
+France/40004SR/2020	EPI_ISL_447656	?	unknown	Genomic platform	De Prost et al
+France/40005BH/2020	EPI_ISL_447658	?	unknown	Genomic platform	De Prost et al
+France/40006SG/2020	EPI_ISL_447662	?	unknown	Genomic platform	De Prost et al
+France/40007RD/2020	EPI_ISL_447692	?	unknown	Genomic platform	De Prost et al
+France/50001AR/2020	EPI_ISL_447698	?	unknown	Genomic platform	De Prost et al
+France/50002BS/2020	EPI_ISL_447694	?	unknown	Genomic platform	De Prost et al
+France/50004CS/2020	EPI_ISL_447706	?	unknown	Genomic platform	De Prost et al
+France/50005JM/2020	EPI_ISL_447705	?	unknown	Genomic platform	De Prost et al
+France/50006PT/2020	EPI_ISL_447732	?	unknown	Genomic platform	De Prost et al
+France/50007PI/2020	EPI_ISL_447718	?	unknown	Genomic platform	De Prost et al
+France/50008KC/2020	EPI_ISL_447673	?	unknown	Genomic platform	De Prost et al
+France/50010DC/2020	EPI_ISL_447657	?	unknown	Genomic platform	De Prost et al
+France/50011LM/2020	EPI_ISL_447716	?	unknown	Genomic platform	De Prost et al
+France/5003KM/2020	EPI_ISL_447693	?	unknown	Genomic platform	De Prost et al
+France/60002VV/2020	EPI_ISL_447671	?	unknown	Genomic platform	De Prost et al
+France/60003NG/2020	EPI_ISL_447659	?	unknown	Genomic platform	De Prost et al
+France/70001GR/2020	EPI_ISL_447655	?	unknown	Genomic platform	De Prost et al
+France/ARA094100/2020	EPI_ISL_418412	?	Centre Hospitalier des Vals d'Ardeche	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA09428/2020	EPI_ISL_418413	?	Centre Hospitalier de Macon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA09434/2020	EPI_ISL_418414	?	Centre Hospitalier de Valence	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA09451/2020	EPI_ISL_418415	?	Centre Hospitalier de Valence	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA09588/2020	EPI_ISL_418416	?	GH Les Portes du Sud	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA09686/2020	EPI_ISL_418417	?	Centre Hospitalier de Valence	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10163/2020	EPI_ISL_418418	?	Centre Hospitalier Saint Joseph Saint Luc	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10165/2020	EPI_ISL_418419	?	Centre Hospitalier Saint Joseph Saint Luc	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10170/2020	EPI_ISL_418420	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10172/2020	EPI_ISL_418421	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10184/2020	EPI_ISL_418422	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10188/2020	EPI_ISL_418423	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10189/2020	EPI_ISL_418424	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10192/2020	EPI_ISL_418425	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10251/2020	EPI_ISL_418426	?	Centre Hospitalier de Bourg en Bresse	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10257/2020	EPI_ISL_418427	?	Hopital Privé de l'Est Lyonnais	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10282/2020	EPI_ISL_418428	?	Centre Hospitalier Lucien Hussel	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10552/2020	EPI_ISL_419168	?	Centre Hospitalier de Valence	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10876/2020	EPI_ISL_418429	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10910/2020	EPI_ISL_418430	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA10968/2020	EPI_ISL_418431	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA11036/2020	EPI_ISL_418432	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA11939/2020	EPI_ISL_419169	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA11943/2020	EPI_ISL_419170	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA11949/2020	EPI_ISL_419171	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA11950/2020	EPI_ISL_419172	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA11952/2020	EPI_ISL_419173	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA11980/2020	EPI_ISL_419174	?	Centre Hospitalier de Macon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA11995/2020	EPI_ISL_419175	?	Centre Hospitalier de Macon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA11997/2020	EPI_ISL_419176	?	Centre Hospitalier de Macon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12125/2020	EPI_ISL_419177	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12217/2020	EPI_ISL_419178	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12222/2020	EPI_ISL_419179	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12238/2020	EPI_ISL_419180	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12249/2020	EPI_ISL_419181	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12250/2020	EPI_ISL_419182	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12253/2020	EPI_ISL_419183	?	Centre Hospitalier de Bourg en Bresse	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12260/2020	EPI_ISL_419184	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12264/2020	EPI_ISL_419185	?	Centre Hospitalier de Bourg en Bresse	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12265/2020	EPI_ISL_419186	?	Centre Hospitalier de Bourg en Bresse	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12269/2020	EPI_ISL_419187	?	Centre Hospitalier de Macon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12270/2020	EPI_ISL_419188	?	Centre Hospitalier de Macon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12371/2020	EPI_ISL_420604	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12384/2020	EPI_ISL_420605	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12388/2020	EPI_ISL_420606	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12485/2020	EPI_ISL_420607	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12499/2020	EPI_ISL_420608	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12524/2020	EPI_ISL_420609	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12558/2020	EPI_ISL_420610	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12576/2020	EPI_ISL_420611	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12626/2020	EPI_ISL_420612	?	Centre Hospitalier de Macon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12630/2020	EPI_ISL_420613	?	Centre Hospitalier de Macon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12632/2020	EPI_ISL_420614	?	Centre Hospitalier de Macon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12759/2020	EPI_ISL_420615	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA1284/2020	EPI_ISL_420616	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12877/2020	EPI_ISL_420617	?	Centre Hospitalier Saint Joseph Saint Luc	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12915/2020	EPI_ISL_420618	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12973/2020	EPI_ISL_420619	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA12996/2020	EPI_ISL_420620	?	Centre Hospitalier de Bourg en Bresse	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA1307/2020	EPI_ISL_420621	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA13074/2020	EPI_ISL_420622	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA13095/2020	EPI_ISL_420623	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA13160/2020	EPI_ISL_420624	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/ARA1322/2020	EPI_ISL_420625	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/B1623/2020	EPI_ISL_418219	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B2330/2020	EPI_ISL_416502	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B2334/2020	EPI_ISL_416503	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B2335/2020	EPI_ISL_416504	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B2336/2020	EPI_ISL_416505	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B2337/2020	EPI_ISL_416506	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B2340/2020	EPI_ISL_416507	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B2343/2020	EPI_ISL_416508	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B2344/2020	EPI_ISL_416509	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B2346/2020	EPI_ISL_416510	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B2348/2020	EPI_ISL_416511	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B2349/2020	EPI_ISL_416512	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B2351/2020	EPI_ISL_416513	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5310/2020	EPI_ISL_443265	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5322/2020	EPI_ISL_443266	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5325/2020	EPI_ISL_443267	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5336/2020	EPI_ISL_443268	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5344/2020	EPI_ISL_443269	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5353/2020	EPI_ISL_443270	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5355/2020	EPI_ISL_443271	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5359/2020	EPI_ISL_443272	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5363/2020	EPI_ISL_443273	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5374/2020	EPI_ISL_443274	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5397/2020	EPI_ISL_443275	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5400/2020	EPI_ISL_443276	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5413/2020	EPI_ISL_443277	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5415/2020	EPI_ISL_443278	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5434/2020	EPI_ISL_443279	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5447/2020	EPI_ISL_443280	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5456/2020	EPI_ISL_443281	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5458/2020	EPI_ISL_443282	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5465/2020	EPI_ISL_443283	?	CHU - Hôpital Cavale Blanche - Labo. de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5678/2020	EPI_ISL_443289	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5681/2020	EPI_ISL_443290	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5685/2020	EPI_ISL_443291	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5687/2020	EPI_ISL_443292	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5688/2020	EPI_ISL_443293	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B5689/2020	EPI_ISL_443294	?	CHRU Pontchaillou - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/B6041/2020	EPI_ISL_443313	?	Cabinet Médical	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/BFC2094/2020	EPI_ISL_415651	?	Unknown	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/BFC2147/2020	EPI_ISL_415652	?	unknown	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/BFC2709/2020	EPI_ISL_420038	?	Sentinelles network	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/BFC5011/2020	EPI_ISL_443261	?	CHU de Dijon - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/BFC5012/2020	EPI_ISL_443262	?	CHU de Dijon - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/BFC5017/2020	EPI_ISL_443263	?	CHU de Dijon - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/BFC5019/2020	EPI_ISL_443264	?	CHU de Dijon - Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/BFC6053/2020	EPI_ISL_443307	?	La Villa Papyri	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/Bourg-en-Bresse_06678/2020	EPI_ISL_416757	?	Centre Hospitalier de Bourg en Bresse	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/Bourg-en-Bresse_06813/2020	EPI_ISL_417340	?	Centre Hospitalier de Bourg en Bresse	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/CIBU-200634/2020	EPI_ISL_430846	?	General Intensive Care Unit, Raymond Poincaré Hospital (AP-HP), Lab Inflammation & Infection, U1173 University Paris Saclay-UVSQ/INSERM, Garches, France.	Institut Pasteur, Laboratory for Urgent Response to biological Threats	Annane Djillali et al
+France/CIBU200107/2020	EPI_ISL_437689	?	Laboratory for Urgent Response to Biological Threats	Institut Pasteur CIBU / ERI	V. Caro et al
+France/CIBU200132/2020	EPI_ISL_437690	?	Laboratory for Urgent Response to Biological Threats	Institut Pasteur CIBU /ERI	V. Caro et al
+France/CVL2000/2020	EPI_ISL_418222	?	CHRU Bretonneau - Serv. Bacterio-Virol.	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/CVL3365/2020	EPI_ISL_421514	?	Sentinelles network	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/CVL4430/2020	EPI_ISL_443312	?	Cabinet Médical	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/Clermont-Ferrand_650/2020	EPI_ISL_416752	?	CHU Gabriel Montpied	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/Clermont-Ferrand_651/2020	EPI_ISL_416751	?	CHU Gabriel Montpied	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/GE1583/2020	EPI_ISL_414623	?	Laboratoire de Virologie Institut de Virologie - INSERM U 1109 Hôpitaux Universitaires de Strasbourg	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/GE1973/2020	EPI_ISL_414631	?	Hôpital Robert Debré Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/GE1977/2020	EPI_ISL_414632	?	Hôpital Robert Debré Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/GE2720/2020	EPI_ISL_420039	?	L'Air du Temps	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/GE2722/2020	EPI_ISL_420040	?	L'Air du Temps	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/GE2843/2020	EPI_ISL_420045	?	Sentinelles network	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/GE3067/2020	EPI_ISL_420055	?	Sentinelles network	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/GE3372/2020	EPI_ISL_428348	?	Maison de Santé du Val d'Ormois	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/GE4420/2020	EPI_ISL_443310	?	Centre de santé Filieris	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/GE6058/2020	EPI_ISL_443308	?	Plaisance	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1463/2020	EPI_ISL_429968	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1645/2020	EPI_ISL_418220	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1684/2020	EPI_ISL_414626	?	unknown	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1795/2020	EPI_ISL_414627	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1805/2020	EPI_ISL_414628	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1813/2020	EPI_ISL_418221	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1870/2020	EPI_ISL_414629	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1871/2020	EPI_ISL_414630	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1986/2020	EPI_ISL_414634	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1988/2020	EPI_ISL_414635	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1989/2020	EPI_ISL_414636	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1993/2020	EPI_ISL_414637	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF1995/2020	EPI_ISL_414638	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2039/2020	EPI_ISL_415649	?	unknown	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2060/2020	EPI_ISL_418223	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2150/2020	EPI_ISL_418224	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2151/2020	EPI_ISL_415653	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2155/2020	EPI_ISL_418225	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2174/2020	EPI_ISL_415654	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2196/2020	EPI_ISL_416493	?	CH Jean de Navarre Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2234/2020	EPI_ISL_416495	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2237/2020	EPI_ISL_416496	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2239/2020	EPI_ISL_416497	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2306/2020	EPI_ISL_421500	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2381/2020	EPI_ISL_418226	?	EHPAD - Résidences les Cèdres	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2393/2020	EPI_ISL_418227	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2405/2020	EPI_ISL_418228	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2496/2020	EPI_ISL_418231	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2586/2020	EPI_ISL_418236	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2595/2020	EPI_ISL_418237	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2597/2020	EPI_ISL_418238	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2601/2020	EPI_ISL_418239	?	Centre Hospitalier Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2748/2020	EPI_ISL_420041	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2797/2020	EPI_ISL_420044	?	CH Jean de Navarre Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2946/2020	EPI_ISL_420049	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF2948/2020	EPI_ISL_420050	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3036/2020	EPI_ISL_420053	?	CH Jean de Navarre Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3138/2020	EPI_ISL_420056	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3141/2020	EPI_ISL_420057	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3290/2020	EPI_ISL_421509	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3293/2020	EPI_ISL_421510	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3295/2020	EPI_ISL_421511	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3419/2020	EPI_ISL_428350	?	CH Jean de Navarre Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3534/2020	EPI_ISL_428353	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3598/2020	EPI_ISL_428358	?	CH Jeanne de Navarre Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3668/2020	EPI_ISL_443316	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3669/2020	EPI_ISL_443309	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3677/2020	EPI_ISL_428359	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF3678/2020	EPI_ISL_428360	?	CH Compiègne Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF4220/2020	EPI_ISL_428366	?	CH Jeanne de Navarre Laboratoire de Biologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/HF6466/2020	EPI_ISL_443315	?	Château de la Source	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF0372/2020	EPI_ISL_406596	?	Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF0373/2020	EPI_ISL_406597	?	Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF0386-islP1/2020	EPI_ISL_411219	?	Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris	Laboratoire Virpath, CIRI U111, UCBL1, INSERM, CNRS, ENS Lyon	Olivier Terrier et al
+France/IDF0515/2020	EPI_ISL_408430	?	Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF0626/2020	EPI_ISL_408431	?	Sorbonne Université, Inserm et Assistance Publique-Hôpitaux de Paris (Pitié Salpétrière)	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF1980/2020	EPI_ISL_414633	?	Centre Hospitalier René Dubois Laboratoire de Microbiologie - Bât A	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2075/2020	EPI_ISL_415650	?	Hôpital Instruction des Armées - BEGIN	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2251/2020	EPI_ISL_428355	?	Institut Médico légal- Hop R. Poincaré	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2252/2020	EPI_ISL_428356	?	Institut Médico légal- Hop R. Poincaré	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2253/2020	EPI_ISL_428357	?	Institut Médico légal- Hop R. Poincaré	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2256/2020	EPI_ISL_416498	?	Institut Médico légal- Hop R. Poincaré	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2278/2020	EPI_ISL_416499	?	LABM GH nord Essonne	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2279/2020	EPI_ISL_416500	?	LABM GH nord Essonne	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2284/2020	EPI_ISL_416501	?	Hopital franco britannique - Service des Urgences	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2359/2020	EPI_ISL_421501	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2410/2020	EPI_ISL_418229	?	Hopital franco britannique - Laboratoire	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2412/2020	EPI_ISL_421502	?	Parc des Dames	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2414/2020	EPI_ISL_421503	?	Parc des Dames	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2420/2020	EPI_ISL_418230	?	Clinique AVERAY LA BROUSTE, Med. Polyvalente	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2532/2020	EPI_ISL_418232	?	Service des Urgences	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2533/2020	EPI_ISL_418233	?	Service des Urgences	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2534/2020	EPI_ISL_418234	?	LABM GH nord Essonne	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2536/2020	EPI_ISL_421504	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2548/2020	EPI_ISL_421505	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2561/2020	EPI_ISL_418235	?	Cabinet médical	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2684/2020	EPI_ISL_418240	?	LABM GH nord Essonne	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2768/2020	EPI_ISL_420042	?	Service de Biologie clinique	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2792/2020	EPI_ISL_420043	?	CMIP	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2848/2020	EPI_ISL_420046	?	Résidence Villa Caroline	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2849/2020	EPI_ISL_420047	?	Résidence Villa Caroline	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2936/2020	EPI_ISL_420048	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF2989/2020	EPI_ISL_420051	?	Résidence Eleusis	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3029/2020	EPI_ISL_420052	?	Résidence les Marines	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3040/2020	EPI_ISL_420054	?	Résidence de maintenon	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3081/2020	EPI_ISL_443300	?	Cabinet Médical	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3163/2020	EPI_ISL_420058	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3165/2020	EPI_ISL_420059	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3170/2020	EPI_ISL_420060	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3212/2020	EPI_ISL_420061	?	CMIP	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3218/2020	EPI_ISL_420062	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3230/2020	EPI_ISL_420063	?	Labo BM - Site de Juvisy - Hopital Général	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3235/2020	EPI_ISL_420064	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3236/2020	EPI_ISL_421506	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3274/2020	EPI_ISL_421507	?	Le Château de Seine-Port	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3276/2020	EPI_ISL_421508	?	Le Château de Seine-Port	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3324/2020	EPI_ISL_421512	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3345/2020	EPI_ISL_421513	?	Service de Biologie clinique	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3359/2020	EPI_ISL_443301	?	Cabinet Médical	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3368/2020	EPI_ISL_443302	?	Cabinet Médical	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3384/2020	EPI_ISL_428347	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3386/2020	EPI_ISL_428349	?	Service de Biologie Médicale - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3509/2020	EPI_ISL_428351	?	GH Nord Essonne Service de Biologie clinique	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3518/2020	EPI_ISL_428352	?	GH Nord Essonne Service de Biologie clinique	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3577/2020	EPI_ISL_428354	?	LABM GH nord Essonne de Longjumeau - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3703/2020	EPI_ISL_428361	?	LABM GH nord Essonne de Longjumeau - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3709/2020	EPI_ISL_428362	?	LABM GH nord Essonne de Longjumeau - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3745/2020	EPI_ISL_428363	?	GH Nord Essonne Service de Biologie clinique	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3831/2020	EPI_ISL_428364	?	Cabinet Médical	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF3930/2020	EPI_ISL_428365	?	LABM GH nord Essonne de Longjumeau - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF4423/2020	EPI_ISL_443311	?	Cabinet Médical	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF4432/2020	EPI_ISL_443317	?	Cabinet Médical	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF4791/2020	EPI_ISL_443258	?	Résidence Ornano	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF4793/2020	EPI_ISL_443259	?	Résidence Ornano	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF4843/2020	EPI_ISL_443260	?	LABM GH nord Essonne de Longjumeau - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5577/2020	EPI_ISL_443303	?	Résidence Les Marines	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5650/2020	EPI_ISL_443284	?	Laboratoire de Microbiologie - Bât A - CH René Dubois	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5655/2020	EPI_ISL_443285	?	Laboratoire de Microbiologie - Bât A - CH René Dubois	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5657/2020	EPI_ISL_443286	?	Laboratoire de Microbiologie - Bât A - CH René Dubois	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5662/2020	EPI_ISL_443287	?	Laboratoire de Microbiologie - Bât A - CH René Dubois	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5666/2020	EPI_ISL_443288	?	Laboratoire de Microbiologie - Bât A - CH René Dubois	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5778/2020	EPI_ISL_443304	?	Résidence Esterel	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5847/2020	EPI_ISL_443295	?	Hôpital Necker - Enfants - Malades Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5848/2020	EPI_ISL_443296	?	Hôpital Necker - Enfants - Malades Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5850/2020	EPI_ISL_443297	?	Hôpital Necker - Enfants - Malades Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5851/2020	EPI_ISL_443298	?	Hôpital Necker - Enfants - Malades Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5853/2020	EPI_ISL_443299	?	Hôpital Necker - Enfants - Malades Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF5986/2020	EPI_ISL_443305	?	LABM GH nord Essonne de Longjumeau - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF6037/2020	EPI_ISL_443306	?	Cabinet Médical	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/IDF6073/2020	EPI_ISL_443314	?	LABM GH nord Essonne de Longjumeau - BP 125	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/KRA-ROB/2020	EPI_ISL_424993	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Croville et al
+France/Lyon_06042/2020	EPI_ISL_417333	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/Lyon_06056/2020	EPI_ISL_417334	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/Lyon_06464/2020	EPI_ISL_416753	?	Institut des Agents Infectieux (IAI) Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/Lyon_06487/2020	EPI_ISL_416754	?	Institut des Agents Infectieux (IAI) Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/Lyon_06531/2020	EPI_ISL_416756	?	Institut des Agents Infectieux (IAI) Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/Lyon_06573/2020	EPI_ISL_417335	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/Lyon_06625/2020	EPI_ISL_417337	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/Lyon_0668/2020	EPI_ISL_417336	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/Lyon_06820/2020	EPI_ISL_417339	?	Institut des Agents Infectieux (IAI), Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/Lyon_0693/2020	EPI_ISL_416758	?	Institut des Agents Infectieux (IAI) Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/Lyon_487/2020	EPI_ISL_416747	?	Institut des Agents Infectieux (IAI) Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/Lyon_508/2020	EPI_ISL_416748	?	Institut des Agents Infectieux (IAI) Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/Lyon_683/2020	EPI_ISL_416750	?	Institut des Agents Infectieux (IAI) Hospices Civils de Lyon	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/Macon_06756/2020	EPI_ISL_417338	?	Centre Hospitalier de Macon	CNR Virus des Infections Respiratoires - France SUD	Antonin Bal et al
+France/N1620/2020	EPI_ISL_414624	?	Centre Hositalier Universitaire de Rouen Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/N2223/2020	EPI_ISL_416494	?	Centre Hositalier Universitaire de Rouen Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/N4427/2020	EPI_ISL_428367	?	Cabinet Médical	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/OCC-1/2020	EPI_ISL_434616	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-10/2020	EPI_ISL_434625	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-11/2020	EPI_ISL_434626	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-12/2020	EPI_ISL_434627	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-13/2020	EPI_ISL_434628	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-14/2020	EPI_ISL_434629	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-15/2020	EPI_ISL_434630	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-16/2020	EPI_ISL_434631	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-17/2020	EPI_ISL_434632	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-18/2020	EPI_ISL_434633	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-19/2020	EPI_ISL_434634	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-2/2020	EPI_ISL_434617	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-20/2020	EPI_ISL_434635	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-3/2020	EPI_ISL_434618	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-4/2020	EPI_ISL_434619	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-5/2020	EPI_ISL_434620	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-6/2020	EPI_ISL_434621	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-7/2020	EPI_ISL_434622	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-8/2020	EPI_ISL_434623	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/OCC-9/2020	EPI_ISL_434624	?	CHU Purpan - Laboratoire de Virologie - Institut Fédératif de Biologie	Laboratoire de virologie - √âcole Nationale Vétérinaire de Toulouse	Guillaume Croville et al
+France/PL1643/2020	EPI_ISL_414625	?	Centre Hospitalier Régional Universitaire de Nantes Laboratoire de Virologie	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+France/Pollionay_1733/2020	EPI_ISL_416745	?	CNR Virus des Infections Respiratoires - France SUD	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/RA739/2020	EPI_ISL_410486	?	CNR Virus des Infections Respiratoires - France SUD	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/Valence_425/2020	EPI_ISL_416746	?	CNR Virus des Infections Respiratoires - France SUD	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+France/Valence_532/2020	EPI_ISL_416749	?	Centre Hospitalier de Valence	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+USA/CZB-RR057-005/2020	EPI_ISL_417931	MT258377	Chan-Zuckerberg Biohub	Chan-Zuckerberg Biohub	Arevalo et al
+USA/CZB-RR057-006/2020	EPI_ISL_417932	MT258378	Chan-Zuckerberg Biohub	Chan-Zuckerberg Biohub	Arevalo et al
+USA/CZB-RR057-007/2020	EPI_ISL_417933	MT258379	Chan-Zuckerberg Biohub	Chan-Zuckerberg Biohub	Arevalo et al
+USA/CZB-RR057-011/2020	EPI_ISL_417935	MT258380	Chan-Zuckerberg Biohub	Chan-Zuckerberg Biohub	Arevalo et al
+USA/CZB-RR057-013/2020	EPI_ISL_417937	MT258381	Chan-Zuckerberg Biohub	Chan-Zuckerberg Biohub	Arevalo et al
+USA/CZB-RR057-014/2020	EPI_ISL_417938	MT258382	Chan-Zuckerberg Biohub	Chan-Zuckerberg Biohub	Arevalo et al
+USA/CZB-RR057-015/2020	EPI_ISL_417939	MT258383	Chan-Zuckerberg Biohub	Chan-Zuckerberg Biohub	Arevalo et al
+Sweden/01/2020	EPI_ISL_411951	MT093571	unknown	Unit for Laboratory Development and Technology Transfer, Public Health Agency of Sweden	Bengner et al
+Australia/VIC01/2020	EPI_ISL_406844	MT007544	Monash Medical Centre	Collaboration between the University of Melbourne at The Peter Doherty Institute for Infection and Immunity, and the Victorian Infectious Disease Reference Laboratory	Caly et al
+Vietnam/19-01S/2020	EPI_ISL_418269	MT192772	unknown	Microbiology and Immunology department	Cao et al
+Italy/INMI1-cs/2020	EPI_ISL_410546	MT066156	INMI Lazzaro Spallanzani IRCCS	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Capobianchi et al
+Shenzhen/HKU-SZ-002/2020	EPI_ISL_406030	MN938384	The University of Hong Kong - Shenzhen Hospital	Li Ka Shing Faculty of Medicine, The University of Hong Kong	Chan et al
+Shenzhen/HKU-SZ-005/2020	EPI_ISL_405839	MN975262	The University of Hong Kong - Shenzhen Hospital	Li Ka Shing Faculty of Medicine, The University of Hong Kong	Chan et al
+Wuhan/WH01/2019	EPI_ISL_406798	LR757998	General Hospital of Central Theater Command of People's Liberation Army of China	BGI & Institute of Microbiology, Chinese Academy of Sciences & Shandong First Medical University & Shandong Academy of Medical Sciences & General Hospital of Central Theater Command of People's Liberation Army of China	Chen et al
+Wuhan/WH03/2020	EPI_ISL_406800	LR757996	General Hospital of Central Theater Command of People's Liberation Army of China	BGI & Institute of Microbiology, Chinese Academy of Sciences & Shandong First Medical University & Shandong Academy of Medical Sciences & General Hospital of Central Theater Command of People's Liberation Army of China	Chen et al
+China/WHU01/2020	EPI_ISL_406716	MN988668	unknown	State Key Laboratory of Virology, Wuhan University	Chen et al
+China/WHU02/2020	EPI_ISL_406717	MN988669	unknown	State Key Laboratory of Virology, Wuhan University	Chen et al
+Wuhan/WH04/2020	EPI_ISL_406801	LR757995	General Hospital of Central Theater Command of People's Liberation Army of China	BGI & Institute of Microbiology, Chinese Academy of Sciences & Shandong First Medical University & Shandong Academy of Medical Sciences & General Hospital of Central Theater Command of People's Liberation Army of China	Chen et al
+USA/WA2/2020	EPI_ISL_412970	MT152824	Washington State Department of Health	Seattle Flu Study	Chu et al
+USA/CA-CDPH-UC5/2020	EPI_ISL_413922	?	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+USA/CA-CDPH-UC6/2020	EPI_ISL_413924	?	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+USA/CA-CDPH-UC7/2020	EPI_ISL_413925	?	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+USA/CA-CDPH-UC8/2020	EPI_ISL_413926	?	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+USA/CA-CDPH-UC9/2020	EPI_ISL_413928	?	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+USA/UC-CDPH-UC11/2020	EPI_ISL_413931	?	California Department of Public Health	Chiu Laboratory UCSF-Abbott Viral Diagnostics and Discovery Center University of California, San Francisco	Deng et al
+USA/CA-CDPH-UC2/2020	EPI_ISL_413558	?	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+USA/CA-CDPH-UC3/2020	EPI_ISL_413559	?	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+USA/CA-CDPH-UC4/2020	EPI_ISL_413561	?	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+USA/CA-CDPH-UC1/2020	EPI_ISL_413557	?	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+USA/CT-Yale-003/2020	EPI_ISL_416418	?	Connecticut State Department of Public Health	Grubaugh Lab - Yale School of Public Health	Fauver et al
+USA/CT-Yale-005/2020	EPI_ISL_416419	?	Connecticut State Department of Public Health	Grubaugh Lab - Yale School of Public Health	Fauver et al
+USA/CT-Yale-002/2020	EPI_ISL_416417	?	Connecticut State Department of Public Health	Grubaugh Lab - Yale School of Public Health	Fauver et al
+USA/CT-Yale-006/2020	EPI_ISL_416420	?	Yale Clinical Virology Laboratory	Grubaugh Lab - Yale School of Public Health	Fauver et al
+USA/CT-Yale-007/2020	EPI_ISL_416421	?	Yale Clinical Virology Laboratory	Grubaugh Lab - Yale School of Public Health	Fauver et al
+USA/CT-Yale-008/2020	EPI_ISL_416422	?	Yale Clinical Virology Laboratory	Grubaugh Lab - Yale School of Public Health	Fauver et al
+USA/CT-Yale-009/2020	EPI_ISL_416423	?	Yale Clinical Virology Laboratory	Grubaugh Lab - Yale School of Public Health	Fauver et al
+USA/CT-Yale-010/2020	EPI_ISL_416424	?	Yale Clinical Virology Laboratory	Grubaugh Lab - Yale School of Public Health	Fauver et al
+USA/CT-Yale-001/2020	EPI_ISL_416416	?	Connecticut State Department of Public Health	Grubaugh Lab - Yale School of Public Health	Fauver et al
+Spain/Valencia8/2020	EPI_ISL_416487	MT233523	Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia	Sequencing and Bioinformatics Service and Molecular Epidemiology Research Group. FISABIO-Public Health	Giuseppe D'Auria et al
+Spain/Valencia6/2020	EPI_ISL_416485	MT233521	Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia	Sequencing and Bioinformatics Service and Molecular Epidemiology Research Group. FISABIO-Public Health	Griselda De Marco et al
+Hangzhou/HZ-1/2020	EPI_ISL_406970	MT039873	Hangzhou Center for Disease and Control Microbiology Lab	Hangzhou Center for Disease and Control Microbiology Lab	Hua et al
+China/IQTC04/2020	?	MT123292	unknown	Technology Centre, Guangzhou Customs	Huang,J., Shi,Y., Sun,J., Zheng,K., Zhu,A., Sun,F., Zhuang,Z., Dai,J., Zhang,Z., Huang,S., Wang,Y., Li,X.
+Pakistan/Gilgit1/2020	EPI_ISL_417444	MT240479	unknown	Department of Healthcare Biotechnology	Javed et al
+Beijing/105/2020	EPI_ISL_413518	MT135041	unknown	Infectious Disease Control Center	Li et al
+Beijing/231/2020	EPI_ISL_413519	MT135042	unknown	Infectious Disease Control Center	Li et al
+Beijing/233/2020	EPI_ISL_413520	MT135043	unknown	Infectious Disease Control Center	Li et al
+Beijing/235/2020	EPI_ISL_413521	MT135044	unknown	Infectious Disease Control Center	Li et al
+USA/IL2/2020	EPI_ISL_410045	MT044257	IL Department of Public Health Chicago Laboratory	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Li et al
+China/WH-09/2020	EPI_ISL_411957	MT093631	unknown	Key Laboratory of Human Diseases, Comparative Medicine, Institute of Laboratory Animal Science	Linlin et al
+Colombia/79256/2020	EPI_ISL_417924	MT256924	Secretaria de Salud Medellin	Instituto Nacional de Salud, Universidad Cooperativa de Colombia, Instituto Alexander von Humboldt, Imperial College-London, London School of Hygiene & Tropical Medicine	Marcela Mercado-Reyes et al
+Spain/Valencia4/2020	EPI_ISL_416483	MT233520	Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia	Sequencing and Bioinformatics Service and Molecular Epidemiology Research Group. FISABIO-Public Health	Maria Alma Bracho et al
+Spain/Valencia9/2020	EPI_ISL_417205	MT256917	Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia	Sequencing and Bioinformatics Service and Molecular Epidemiology Research Group. FISABIO-Public Health	Maria Alma Bracho et al
+Spain/Valencia10/2020	EPI_ISL_417206	MT256918	Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia	Sequencing and Bioinformatics Service and Molecular Epidemiology Research Group. FISABIO-Public Health	Maria Alma Bracho et al
+Spain/Valencia5/2020	EPI_ISL_416484	MT233519	Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia	Sequencing and Bioinformatics Service and Molecular Epidemiology Research Group. FISABIO-Public Health	Maria Dolores Ocete et al
+Spain/Valencia2/2020	EPI_ISL_414496	MT198651	Servicio Microbiologia. Hospital Clinico Universitario. Valencia.	Sequencing and Bioinformatics Service. Molecular Epidemiology Laboratory. FISABIO-Public Health	Navarro et al
+Spain/Valencia3/2020	EPI_ISL_414598	MT198652	Servicio Microbiologia, Hospital Clinico Universitario, Valencia	Sequencing and Bioinformatics Service and Molecular Epidemiology Research Group. FISABIO-Public Health.	Navarro et al
+Spain/Valencia1/2020	EPI_ISL_414495	MT198653	Servicio Microbiologia. Hospital Clinico Universitario. Valencia.	Sequencing and Bioinformatics Service. Molecular Epidemiology Laboratory. FISABIO-Public Health	Navarro et al
+Spain/Valencia7/2020	EPI_ISL_416486	MT233522	Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia	Sequencing and Bioinformatics Service and Molecular Epidemiology Research Group. FISABIO-Public Health	Neris Garcia-Gonzalez et al
+Vietnam/19-02S/2020	EPI_ISL_418267	MT192773	unknown	Microbiology and Immunology department	Nguyen et al
+USA/MA1/2020	EPI_ISL_409067	MT039888	Massachusetts Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Paden et al
+USA/MN2-MDH2/2020	EPI_ISL_414589	MT188340	Minnesota Department of Health, Public Health Laboratory	Minnesota Department of Health, Public Health Laboratory	Plumb et al
+USA/MN3-MDH3/2020	EPI_ISL_414590	MT188339	Minnesota Department of Health, Public Health Laboratory	Minnesota Department of Health, Public Health Laboratory	Plumb et al
+India/166/2020	?	MT050493	unknown	Maximum Containment Laboratory, National Institute of Virology, Pashan, Pune, Maharashtra 411021, India	Potdar,V., Choudhary,M., Yadav,P.D., Shete-Aich,A.
+USA/CA3/2020	EPI_ISL_408008	MT027062	California Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+USA/CA4/2020	EPI_ISL_408009	MT027063	California Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+USA/CA7/2020	EPI_ISL_411954	MT106052	California Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+USA/CA8/2020	EPI_ISL_411955	MT106053	California Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+USA/TX1/2020	EPI_ISL_411956	MT106054	Texas Department of State Health Services	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+USA/WA1/2020	EPI_ISL_404895	MN985325	Providence Regional Medical Center	Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+USA/CA9/2020	EPI_ISL_412862	MT118835	California Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+Wuhan/IPBCAMS-WH-01/2019	EPI_ISL_402123	MT019529	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Ren et al
+Wuhan/IPBCAMS-WH-02/2019	EPI_ISL_403931	MT019530	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Ren et al
+Wuhan/IPBCAMS-WH-03/2019	EPI_ISL_403930	MT019531	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Ren et al
+Wuhan/IPBCAMS-WH-04/2019	EPI_ISL_403929	MT019532	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Ren et al
+USA/WA3-UW1/2020	EPI_ISL_413025	MT163716	Harborview Medical Center	UW Virology Lab	Roychoudhury et al
+USA/WA4-UW2/2020	EPI_ISL_413455	MT163717	Washington State Public Health Lab	University of Washington Virology Lab	Roychoudhury et al
+USA/WA6-UW3/2020	EPI_ISL_413457	MT163718	Washington State Public Health Lab	UW Virology Lab	Roychoudhury et al
+USA/WA7-UW4/2020	EPI_ISL_413458	MT163719	Washington State Public Health Lab	UW Virology Lab	Roychoudhury et al
+USA/WA8-UW5/2020	EPI_ISL_413486	MT163720	Valley Medical Center	University of Washington Virology Lab	Roychoudhury et al
+USA/WA9-UW6/2020	EPI_ISL_413487	MT163721	Harborview Medical Center	University of Washington Virology Lab	Roychoudhury et al
+USA/WA-UW197/2020	EPI_ISL_417346	MT246454	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW198/2020	EPI_ISL_417347	MT246455	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW200/2020	EPI_ISL_417349	MT246457	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW201/2020	EPI_ISL_417350	MT246458	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW202/2020	EPI_ISL_417351	MT246459	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW203/2020	EPI_ISL_417352	MT246460	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW215/2020	EPI_ISL_417364	MT246472	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW192/2020	EPI_ISL_417341	MT246449	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW193/2020	EPI_ISL_417342	MT246450	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW194/2020	EPI_ISL_417343	MT246451	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW195/2020	EPI_ISL_417344	MT246452	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW196/2020	EPI_ISL_417345	MT246453	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW199/2020	EPI_ISL_417348	MT246456	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW204/2020	EPI_ISL_417353	MT246461	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW205/2020	EPI_ISL_417354	MT246462	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW206/2020	EPI_ISL_417355	MT246463	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW207/2020	EPI_ISL_417356	MT246464	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW208/2020	EPI_ISL_417357	MT246465	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW209/2020	EPI_ISL_417358	MT246466	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW213/2020	EPI_ISL_417362	MT246470	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW218/2020	EPI_ISL_417367	MT246475	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW219/2020	EPI_ISL_417368	MT246476	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW222/2020	EPI_ISL_417371	MT246479	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW223/2020	EPI_ISL_417372	MT246480	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW224/2020	EPI_ISL_417373	MT246481	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW243/2020	EPI_ISL_418028	MT259235	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW251/2020	EPI_ISL_418036	MT259243	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW254/2020	EPI_ISL_418039	MT259246	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW257/2020	EPI_ISL_418042	MT259249	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW264/2020	EPI_ISL_418049	MT259256	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW266/2020	EPI_ISL_418051	MT259258	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW271/2020	EPI_ISL_418056	MT259263	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW272/2020	EPI_ISL_418057	MT259264	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW273/2020	EPI_ISL_418058	MT259265	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW274/2020	EPI_ISL_418059	MT259266	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW276/2020	EPI_ISL_418061	MT259268	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW280/2020	EPI_ISL_418065	MT259272	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW210/2020	EPI_ISL_417359	MT246467	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW211/2020	EPI_ISL_417360	MT246468	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW212/2020	EPI_ISL_417361	MT246469	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW214/2020	EPI_ISL_417363	MT246471	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW216/2020	EPI_ISL_417365	MT246473	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW217/2020	EPI_ISL_417366	MT246474	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW220/2020	EPI_ISL_417369	MT246477	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW221/2020	EPI_ISL_417370	MT246478	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW229/2020	EPI_ISL_417378	MT246486	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW231/2020	EPI_ISL_417380	MT246488	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW232/2020	EPI_ISL_417381	MT246489	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW234/2020	EPI_ISL_417448	MT251977	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW235/2020	EPI_ISL_417449	MT251978	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW236/2020	EPI_ISL_417450	MT251972	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW237/2020	EPI_ISL_417451	MT251973	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW238/2020	EPI_ISL_417452	MT251974	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW239/2020	EPI_ISL_417453	MT251975	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW240/2020	EPI_ISL_417454	MT251976	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW241/2020	EPI_ISL_417455	MT251979	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW242/2020	EPI_ISL_417456	MT251980	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW250/2020	EPI_ISL_418035	MT259242	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW256/2020	EPI_ISL_418041	MT259248	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW258/2020	EPI_ISL_418043	MT259250	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW259/2020	EPI_ISL_418044	MT259251	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW260/2020	EPI_ISL_418045	MT259252	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW270/2020	EPI_ISL_418055	MT259262	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW275/2020	EPI_ISL_418060	MT259267	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW277/2020	EPI_ISL_418062	MT259269	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW284/2020	EPI_ISL_418069	MT259274	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW285/2020	EPI_ISL_418070	MT259275	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW367/2020	EPI_ISL_418934	MT263447	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW225/2020	EPI_ISL_417374	MT246482	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW226/2020	EPI_ISL_417375	MT246483	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW227/2020	EPI_ISL_417376	MT246484	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW228/2020	EPI_ISL_417377	MT246485	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW233/2020	EPI_ISL_417382	MT246490	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW253/2020	EPI_ISL_418038	MT259245	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW279/2020	EPI_ISL_418064	MT259271	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW282/2020	EPI_ISL_418067	MT259273	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW286/2020	EPI_ISL_418071	MT259276	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW287/2020	EPI_ISL_418072	MT259277	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW288/2020	EPI_ISL_418073	MT259278	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW289/2020	EPI_ISL_418074	MT259279	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW290/2020	EPI_ISL_418075	MT259280	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW291/2020	EPI_ISL_418076	MT259281	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW292/2020	EPI_ISL_418077	MT259282	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW293/2020	EPI_ISL_418078	MT259283	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW294/2020	EPI_ISL_418079	MT259284	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW295/2020	EPI_ISL_418080	MT259285	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW296/2020	EPI_ISL_418081	MT259286	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW297/2020	EPI_ISL_418082	MT259287	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW244/2020	EPI_ISL_418029	MT259236	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW245/2020	EPI_ISL_418030	MT259237	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW246/2020	EPI_ISL_418031	MT259238	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW248/2020	EPI_ISL_418033	MT259240	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW249/2020	EPI_ISL_418034	MT259241	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW252/2020	EPI_ISL_418037	MT259244	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW255/2020	EPI_ISL_418040	MT259247	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW261/2020	EPI_ISL_418046	MT259253	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW262/2020	EPI_ISL_418047	MT259254	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW263/2020	EPI_ISL_418048	MT259255	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW265/2020	EPI_ISL_418050	MT259257	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW267/2020	EPI_ISL_418052	MT259259	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW268/2020	EPI_ISL_418053	MT259260	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW269/2020	EPI_ISL_418054	MT259261	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW278/2020	EPI_ISL_418063	MT259270	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW323/2020	EPI_ISL_418890	MT263403	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW339/2020	EPI_ISL_418906	MT263419	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW340/2020	EPI_ISL_418907	MT263420	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW364/2020	EPI_ISL_418931	MT263444	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW325/2020	EPI_ISL_418892	MT263405	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW326/2020	EPI_ISL_418893	MT263406	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW336/2020	EPI_ISL_418903	MT263416	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW303/2020	EPI_ISL_418871	MT263386	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW313/2020	EPI_ISL_418880	MT263394	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW315/2020	EPI_ISL_418882	MT263396	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW327/2020	EPI_ISL_418894	MT263407	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW329/2020	EPI_ISL_418896	MT263409	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW332/2020	EPI_ISL_418899	MT263412	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW382/2020	EPI_ISL_418947	MT263461	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW298/2020	EPI_ISL_418866	MT263381	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW299/2020	EPI_ISL_418867	MT263382	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW301/2020	EPI_ISL_418869	MT263384	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW302/2020	EPI_ISL_418870	MT263385	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW304/2020	EPI_ISL_418872	MT263387	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW305/2020	EPI_ISL_418873	MT263388	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW312/2020	EPI_ISL_418879	MT263393	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW320/2020	EPI_ISL_418887	MT263400	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW321/2020	EPI_ISL_418888	MT263401	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW322/2020	EPI_ISL_418889	MT263402	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW343/2020	EPI_ISL_418910	MT263423	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW379/2020	EPI_ISL_418945	MT263458	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW383/2020	EPI_ISL_418948	MT263462	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW384/2020	EPI_ISL_418949	MT263463	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW385/2020	EPI_ISL_418950	MT263464	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW386/2020	EPI_ISL_418951	MT263465	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW387/2020	EPI_ISL_418952	MT263466	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW388/2020	EPI_ISL_418953	MT263467	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW389/2020	EPI_ISL_418954	MT263468	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW390/2020	EPI_ISL_418955	MT263469	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW300/2020	EPI_ISL_418868	MT263383	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW307/2020	EPI_ISL_418875	MT263390	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW308/2020	EPI_ISL_418876	MT263391	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW310/2020	EPI_ISL_418878	MT263392	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW314/2020	EPI_ISL_418881	MT263395	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW316/2020	EPI_ISL_418883	MT263397	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW317/2020	EPI_ISL_418884	MT263398	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW319/2020	EPI_ISL_418886	MT263399	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW324/2020	EPI_ISL_418891	MT263404	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW328/2020	EPI_ISL_418895	MT263408	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW330/2020	EPI_ISL_418897	MT263410	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW331/2020	EPI_ISL_418898	MT263411	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW333/2020	EPI_ISL_418900	MT263413	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW334/2020	EPI_ISL_418901	MT263414	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW335/2020	EPI_ISL_418902	MT263415	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW337/2020	EPI_ISL_418904	MT263417	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW338/2020	EPI_ISL_418905	MT263418	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW341/2020	EPI_ISL_418908	MT263421	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW342/2020	EPI_ISL_418909	MT263422	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW344/2020	EPI_ISL_418911	MT263424	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW345/2020	EPI_ISL_418912	MT263425	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW346/2020	EPI_ISL_418913	MT263426	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW347/2020	EPI_ISL_418914	MT263427	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW348/2020	EPI_ISL_418915	MT263428	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW349/2020	EPI_ISL_418916	MT263429	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW350/2020	EPI_ISL_418917	MT263430	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW351/2020	EPI_ISL_418918	MT263431	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW352/2020	EPI_ISL_418919	MT263432	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW353/2020	EPI_ISL_418920	MT263433	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW354/2020	EPI_ISL_418921	MT263434	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW355/2020	EPI_ISL_418922	MT263435	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW356/2020	EPI_ISL_418923	MT263436	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW357/2020	EPI_ISL_418924	MT263437	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW358/2020	EPI_ISL_418925	MT263438	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW359/2020	EPI_ISL_418926	MT263439	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW360/2020	EPI_ISL_418927	MT263440	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW361/2020	EPI_ISL_418928	MT263441	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW362/2020	EPI_ISL_418929	MT263442	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW363/2020	EPI_ISL_418930	MT263443	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW365/2020	EPI_ISL_418932	MT263445	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW366/2020	EPI_ISL_418933	MT263446	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW368/2020	EPI_ISL_418935	MT263448	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW369/2020	EPI_ISL_418936	MT263449	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW370/2020	EPI_ISL_418937	MT263450	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW371/2020	EPI_ISL_418938	MT263451	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW372/2020	EPI_ISL_418939	MT263452	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW373/2020	EPI_ISL_418940	MT263453	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW374/2020	EPI_ISL_418941	MT263454	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW375/2020	EPI_ISL_418942	MT263455	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW376/2020	EPI_ISL_418943	MT263456	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW378/2020	EPI_ISL_418944	MT263457	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW381/2020	EPI_ISL_418946	MT263460	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+USA/WA-UW380/2020	?	MT263459	Laboratory Medicine, University of Washington, 1100 Fairview Ave N, PO Box 19024, E5-110, Seattle, WA	Laboratory Medicine, University of Washington, 1100 Fairview Ave N, PO Box 19024, E5-110, Seattle, WA	Roychoudhury,P., Greninger,A., Jerome,K.
+Nepal/61/2020	EPI_ISL_410301	MT072688	National Influenza Centre, National Public Health Laboratory, Kathmandu, Nepal	The University of Hong Kong	Sah et al
+China/IQTC02/2020	EPI_ISL_412967	MT123291	unknown	Technology Centre, Guangzhou Customs	Shi et al
+China/IQTC01/2020	EPI_ISL_412966	MT123290	unknown	Technology Centre, Guangzhou Customs	Shi et al
+Wuhan/OS52/2020	?	MT259226	CAS Key Laboratory of Special Pathogens and Biosafety and Center for Emerging Infectious Diseases, Wuhan Institute of Virology, Chinese Academy of Sciences, No.44 Xiao Hong Shan, Wuhan, Hubei 430071, China	Genome  Warehouse (GWH,https://bigd.big.ac.cn/gwh/) of the China National Center for Bioinformation (CNCB)/National Genomics Data Center (NGDC, https://bigd.big.ac.cn)	Si,H., Zhu,Y., Lin,H., Xie,S., Shi,Z., Zhou,P.
+Wuhan/YB012504/2020	?	MT259231	CAS Key Laboratory of Special Pathogens and Biosafety and Center for Emerging Infectious Diseases, Wuhan Institute of Virology, Chinese Academy of Sciences, No.44 Xiao Hong Shan, Wuhan, Hubei 430071, China	Genome  Warehouse (GWH,https://bigd.big.ac.cn/gwh/) of the China National Center for Bioinformation (CNCB)/National Genomics Data Center (NGDC, https://bigd.big.ac.cn)	Si,H., Zhu,Y., Lin,H., Xie,S., Shi,Z., Zhou,P.
+Wuhan/YB012506/2020	?	MT259230	CAS Key Laboratory of Special Pathogens and Biosafety and Center for Emerging Infectious Diseases, Wuhan Institute of Virology, Chinese Academy of Sciences, No.44 Xiao Hong Shan, Wuhan, Hubei 430071, China	Genome  Warehouse (GWH,https://bigd.big.ac.cn/gwh/) of the China National Center for Bioinformation (CNCB)/National Genomics Data Center (NGDC, https://bigd.big.ac.cn)	Si,H., Zhu,Y., Lin,H., Xie,S., Shi,Z., Zhou,P.
+Wuhan/YB012602/2020	?	MT259229	CAS Key Laboratory of Special Pathogens and Biosafety and Center for Emerging Infectious Diseases, Wuhan Institute of Virology, Chinese Academy of Sciences, No.44 Xiao Hong Shan, Wuhan, Hubei 430071, China	Genome  Warehouse (GWH,https://bigd.big.ac.cn/gwh/) of the China National Center for Bioinformation (CNCB)/National Genomics Data Center (NGDC, https://bigd.big.ac.cn)	Si,H., Zhu,Y., Lin,H., Xie,S., Shi,Z., Zhou,P.
+Wuhan/YB012605/2020	?	MT259228	CAS Key Laboratory of Special Pathogens and Biosafety and Center for Emerging Infectious Diseases, Wuhan Institute of Virology, Chinese Academy of Sciences, No.44 Xiao Hong Shan, Wuhan, Hubei 430071, China	Genome  Warehouse (GWH,https://bigd.big.ac.cn/gwh/) of the China National Center for Bioinformation (CNCB)/National Genomics Data Center (NGDC, https://bigd.big.ac.cn)	Si,H., Zhu,Y., Lin,H., Xie,S., Shi,Z., Zhou,P.
+Wuhan/YB012611/2020	?	MT259227	CAS Key Laboratory of Special Pathogens and Biosafety and Center for Emerging Infectious Diseases, Wuhan Institute of Virology, Chinese Academy of Sciences, No.44 Xiao Hong Shan, Wuhan, Hubei 430071, China	Genome  Warehouse (GWH,https://bigd.big.ac.cn/gwh/) of the China National Center for Bioinformation (CNCB)/National Genomics Data Center (NGDC, https://bigd.big.ac.cn)	Si,H., Zhu,Y., Lin,H., Xie,S., Shi,Z., Zhou,P.
+Finland/1/2020	EPI_ISL_407079	MT020781	Lapland Central Hospital	Department of Virology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland	Smura et al
+Yunnan/IVDC-YN-003/2020	EPI_ISL_408480	MT049951	National Institute for Viral Disease Control and Prevention, China CDC	National Institute for Viral Disease Control & Prevention, CCDC	Tan et al
+USA/CA5/2020	EPI_ISL_408010	MT027064	California Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH10/2020	EPI_ISL_418779	MT262904	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH11/2020	EPI_ISL_418780	MT262905	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH12/2020	EPI_ISL_418781	MT262906	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH13/2020	EPI_ISL_418782	MT262915	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH14/2020	EPI_ISL_418783	MT262907	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH17/2020	EPI_ISL_418784	MT262908	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH18/2020	EPI_ISL_418785	MT262909	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH19/2020	EPI_ISL_418786	MT262910	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH20/2020	EPI_ISL_418787	MT262911	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH21/2020	EPI_ISL_418788	MT262912	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH22/2020	EPI_ISL_418789	MT262913	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH23/2020	EPI_ISL_418790	MT262916	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH24/2020	EPI_ISL_418791	MT262914	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/WA-NH9/2020	EPI_ISL_418778	MT262903	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/IL1/2020	EPI_ISL_404253	MN988713	IL Department of Public Health Chicago Laboratory	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+USA/AZ1/2020	EPI_ISL_406223	MN997409	Arizona Department of Health Services	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+Taiwan/CGMH-CGU-01/2020	EPI_ISL_411915	MT192759	Laboratory Medicine	Department of Laboratory Medicine, Lin-Kou Chang Gung Memorial Hospital, Taoyuan, Taiwan.	Tsao et al
+USA/CA1/2020	EPI_ISL_406034	MN994467	California Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Uehara et al
+USA/CA2/2020	EPI_ISL_406036	MN994468	California Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Uehara et al
+Taiwan/NTU01/2020	EPI_ISL_408489	MT066175	Department of Laboratory Medicine, National Taiwan University Hospital	Microbial Genomics Core Lab, National Taiwan University Centers of Genomic and Precision Medicine	Yeh et al
+Taiwan/NTU02/2020	EPI_ISL_410218	MT066176	Department of Laboratory Medicine, National Taiwan University Hospital	Microbial Genomics Core Lab, National Taiwan University Centers of Genomic and Precision Medicine	Yeh et al
+Hangzhou/HZ48/2020	EPI_ISL_418441	MT253701	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ49/2020	EPI_ISL_418442	MT253702	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ79/2020	EPI_ISL_418504	MT253708	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ90/2020	EPI_ISL_418506	MT253709	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hanghzou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ60/2020	EPI_ISL_418502	MT253705	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ62/2020	EPI_ISL_418503	MT253706	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ185/2020	EPI_ISL_418510	MT253698	Hangzhou Center for Disease Control and Prevention	Insepction Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ551/2020	EPI_ISL_418513	MT253703	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ638/2020	EPI_ISL_418515	MT253707	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ91/2020	EPI_ISL_418507	MT253710	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ162/2020	EPI_ISL_418508	MT253696	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ178/2020	EPI_ISL_418509	MT253697	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ477/2020	EPI_ISL_418511	MT253699	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ481/2020	EPI_ISL_418512	MT253700	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Hangzhou/HZ576/2020	EPI_ISL_418514	MT253704	Hangzhou Center for Disease Control and Prevention	Inspection Center of Hangzhou Center for Disease Control and Prevention	Yu hua et al
+Pakistan/Manga1/2020	?	MT262993	unknown	University Institute of Biochemistry and Biotechnology, Pir Mehr Ali Shah Arid Agriculture University Rawalpindi, Shamsabad, Murree Road, Rawalpindi, Punjab 46300,Pakistan	Zainab,T., Shamshad,S., Noureen,A., Malik,A., Asad,M.J., Rizvi,K.A.
+USA/CA-PC101P/2020	EPI_ISL_414648	MT192765	Andersen Lab, The Scripps Research Institute	Andersen Lab, The Scripps Research Institute	Zeller et al
+Shanghai/SH01/2020	EPI_ISL_414510	MT121215	unknown	Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS)	Zhang et al
+Wuhan-Hu-1/2019	EPI_ISL_402125	MN908947	unknown	National Institute for Communicable Disease Control and Prevention (ICDC) Chinese Center for Disease Control and Prevention (China CDC)	Zhang et al
+USA/CA6/2020	EPI_ISL_410044	MT044258	California Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Zhang et al
+USA/WI1/2020	EPI_ISL_408670	MT039887	Wisconsin Department of Health Services	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Zhang et al
+USA/WA-NH2/2020	EPI_ISL_418771	MT262896	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Zhang et al
+USA/WA-NH3/2020	EPI_ISL_418772	MT262897	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Zhang et al
+USA/WA-NH4/2020	EPI_ISL_418773	MT262898	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Zhang et al
+USA/WA-NH5/2020	EPI_ISL_418774	MT262899	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Zhang et al
+USA/WA-NH6/2020	EPI_ISL_418775	MT262900	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Zhang et al
+USA/WA-NH7/2020	EPI_ISL_418776	MT262901	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Zhang et al
+USA/WA-NH8/2020	EPI_ISL_418777	MT262902	WA State Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Zhang et al
+China/IQTC03/2020	?	MT123293	Technology Centre, Guangzhou Customs	Technology Centre, Guangzhou Customs	Zheng,K., Shi,Y., Sun,J., Huang,J., Zhu,A., Sun,F., Zhuang,Z., Dai,J., Chen,Z., Huang,S., Zhang,Z., Li,X., Wang,Y.
+Wuhan/WIV02/2019	EPI_ISL_402127	MN996527	Wuhan Jinyintan Hospital	Wuhan Institute of Virology, Chinese Academy of Sciences	Zhou et al
+Wuhan/WIV04/2019	EPI_ISL_402124	MN996528	Wuhan Jinyintan Hospital	Wuhan Institute of Virology, Chinese Academy of Sciences	Zhou et al
+Wuhan/WIV05/2019	EPI_ISL_402128	MN996529	Wuhan Jinyintan Hospital	Wuhan Institute of Virology, Chinese Academy of Sciences	Zhou et al
+Wuhan/WIV06/2019	EPI_ISL_402129	MN996530	Wuhan Jinyintan Hospital	Wuhan Institute of Virology, Chinese Academy of Sciences	Zhou et al
+Wuhan/WIV07/2019	EPI_ISL_402130	MN996531	Wuhan Jinyintan Hospital	Wuhan Institute of Virology, Chinese Academy of Sciences	Zhou et al
+Argentina/C121/2020	EPI_ISL_420600	?	Servicio Virosis Respiratorias-Departamento Virología-INEI	Instituto Nacional Enfermedades Infecciosas C.G.Malbran	Baumeister E. et al
+Australia/NSW527/2020	EPI_ISL_455066	?	Pathology West - NSW Health Pathology	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	CIDM-PH et al. et al
+Australia/NSW529/2020	EPI_ISL_455068	?	Childrens Hospital Westmead	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	CIDM-PH et al. et al
+Australia/QLD01/2020	EPI_ISL_407894	?	Pathology Queensland	Public Health Virology Laboratory	Ben Huang et al
+Australia/QLD04/2020	EPI_ISL_410718	?	Pathology Queensland	Public Health Virology Laboratory	Ben Huang et al
+Australia/QLDID927/2020	EPI_ISL_418807	?	Pathology Queensland	Public Health Virology Laboratory	Bixing Huang et al
+Austria/CeMM0003/2020	EPI_ISL_419656	?	Center for Virology, Medical University of Vienna	Bergthaler laboratory, CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences	Alexandra Popa et al
+Austria/CeMM0005/2020	EPI_ISL_419658	?	Center for Virology, Medical University of Vienna	Bergthaler laboratory, CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences	Alexandra Popa et al
+Austria/CeMM0045/2020	EPI_ISL_437932	?	Institut für Virologie am Department für Hygiene, Mikrobiologie und Public Health	Bergthaler laboratory, CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences	Alexandra Popa et al
+Austria/CeMM0126/2020	EPI_ISL_437982	?	Institut für Virologie am Department für Hygiene, Mikrobiologie und Public Health	Bergthaler laboratory, CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences	Alexandra Popa et al
+Austria/CeMM0251/2020	EPI_ISL_438081	?	Center for Virology, Medical University of Vienna	Bergthaler laboratory, CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences	Alexandra Popa et al
+Austria/CeMM0288/2020	EPI_ISL_438113	?	Center for Virology, Medical University of Vienna	Bergthaler laboratory, CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences	Alexandra Popa et al
+Austria/CeMM0292/2020	EPI_ISL_438116	?	Center for Virology, Medical University of Vienna	Bergthaler laboratory, CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences	Alexandra Popa et al
+Belgium/BA-02291/2020	EPI_ISL_415159	?	KU Leuven, Clinical and Epidemiological Virology	KU Leuven, Clinical and Epidemiological Virology	Bert Vanmechelen et al
+Belgium/NML-0325127/2020	EPI_ISL_420384	?	KU Leuven, Clinical and Epidemiological Virology	KU Leuven, Clinical and Epidemiological Virology	Joan Marti-Carreras et al
+Belgium/ULG-6942/2020	EPI_ISL_417021	?	Department of Clinical Microbiology	GIGA Medical Genomics	Durkin Keith et al
+Belgium/ULG-9619/2020	EPI_ISL_418649	?	Department of Clinical Microbiology	GIGA Medical Genomics	Keith Durkin et al
+Brazil/CV49/2020	EPI_ISL_429702	?	Central Public Health Laboratory/Octávio Magalhães Institute (IOM) from the Ezequiel Dias Foundation (FUNED)	Instituto Octávio Magalhães / Fundação Ezequiel Dias (IOM/Funed)	Talita Adelino et al
+Brazil/SPBR-01/2020	EPI_ISL_412964	?	Hospital Israelita Albert Einstein	Instituto Adolfo Lutz Interdisciplinary Procedures Center Strategic Laboratory	Jaqueline Goes de Jesus et al
+Brazil/SPBR-02/2020	EPI_ISL_413016	MT126808	Hospital Israelita Albert Einstein	Instituto Adolfo Lutz, Interdisciplinary Procedures Center, Strategic Laboratory	Jaqueline Goes de Jesus et al
+Brazil/SPBR-08/2020	EPI_ISL_416029	?	Laboiratório Fleury	Instituto Adolfo Lutz, Interdiciplinary Procedures Center, Strategic Laboratory	Claudio Tavares Sacchi et al
+Canada/ON_QGLO-039/2020	EPI_ISL_459890	?	Kingston Health Sciences Center	Queen's Genomics Lab at Ongwanada (Q-GLO)	Sjaarda CP et al
+Canada/Qc-L00240652/2020	EPI_ISL_450304	?	Hôpital Charles-LeMoyne	Laboratoire de santé publique du Québec	Sandrine Moreira et al
+Chile/Punta_Arenas_4/2020	EPI_ISL_445282	?	CLINICA MAGALLANES S.A.	Instituto de Salud Publica de Chile	Andrés E Castillo et al
+Chile/Santiago_69/2020	EPI_ISL_445365	?	HOSPITAL DR.SOTERO DEL RIO	Instituto de Salud Publica de Chile	Andrés E Castillo et al
+CostaRica/04/2020	EPI_ISL_434540	?	EBAIS Concepción Norte	Inciensa, Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud	Duarte et al
+Croatia/I7-S21new/2020	EPI_ISL_454606	?	Institute for Public Health	Laboratory for advanced genomics	Filip Rokić et al
+CzechRepublic/951/2020	EPI_ISL_414477	?	The National Institute of Public Health Center for Epidemiology and Microbiology	State Veterinary Institute Prague	Alexander Nagy et al
+CzechRepublic/IAB_21/2020	EPI_ISL_426895	?	Motol University Hospital	Institute of Applied Biotechnologies a.s.	Petr Brož et al
+Denmark/ALAB-HH-195/2020	EPI_ISL_452058	?	Department of Clinical Microbiology, Copenhagen University Hospital, Hvidovre, Kettegaard Alle 30, 2650 Hvidovre.	Albertsen lab, Department of Chemistry and Bioscience, Aalborg University, Denmark	Rasmus Kirkegaard et al
+Denmark/ALAB-SSI-839/2020	EPI_ISL_444932	?	Department of Virus and Microbiological Special Diagnostics, Statens Serum Institut, Copenhagen, Denmark, Artillerivej 5, 2300 Copenahgen S	Albertsen lab, Department of Chemistry and Bioscience, Aalborg University, Denmark	Rasmus Kirkegaard et al
+Denmark/ALAB-SSI114/2020	EPI_ISL_429345	?	Department of Virus and Microbiological Special Diagnostics, Statens Serum Institut, Copenhagen, Denmark, Artillerivej 5, 2300 Copenahgen S	Albertsen lab, Department of Chemistry and Bioscience, Aalborg University, Denmark	Rasmus Kirkegaard et al
+Denmark/SSI-01/2020	EPI_ISL_416142	?	Department of Virus and Microbiological Special diagnostics, Statens Serum Institut, Copenhagen, Denmark.	Statens Serum Institute	Morten Rasmussen et al
+Denmark/SSI-09/2020	EPI_ISL_416141	?	Department of Virus and Microbiological Special diagnostics, Statens Serum Institut, Copenhagen, Denmark.	Statens Serum Institute	Morten Rasmussen et al
+Egypt/NRC-01/2020	EPI_ISL_430820	?	Center of Scientific Excellence for Influenza Viruses, National Research Centre (NRC), Egypt.	Center of Scientific Excellence for Influenza Viruses, National Research Centre (NRC), Egypt.	Mohamed Ahmed Ali et al
+Egypt/NRC-03/2020	EPI_ISL_430819	?	Center of Scientific Excellence for Influenza Viruses,National Research Centre (NRC), Egypt.	Center of Scientific Excellence for Influenza Viruses,National Research Centre (NRC), Egypt.	Mohamed Ahmed Ali et al
+England/09c/2020	EPI_ISL_412116	?	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Monica Galiano et al
+England/20099038206/2020	EPI_ISL_415129	?	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Monica Galiano et al
+England/200990723/2020	EPI_ISL_414012	?	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Monica Galiano et al
+England/20100001406/2020	EPI_ISL_415132	?	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Monica Galiano et al
+England/20130071804/2020	EPI_ISL_423662	?	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Monica Galiano et al
+England/CAMB-8473C/2020	EPI_ISL_440499	?	Department of Pathology, University of Cambridge	Wellcome Sanger Institute for the COVID-19 Genomics UK Consortium	Luke W Meredith et al
+England/CAMB-84778/2020	EPI_ISL_440514	?	Department of Pathology, University of Cambridge	Wellcome Sanger Institute for the COVID-19 Genomics UK Consortium	Luke W Meredith et al
+England/NOTT-10DF14/2020	EPI_ISL_425469	?	Queens Medical Centre, Clinical Microbiology Department / DeepSeq Nottingham	COVID-19 Genomics UK (COG-UK) Consortium	Gemma Clark et al
+Finland/13M33/2020	EPI_ISL_418390	?	Department of Virology and Immunology, University of Helsinki and Helsinki University Hospital, Huslab Finland	Department of Virology, Faculty of Medicine, University of Helsinki, Helsinki, Finland	Teemu Smura et al
+Finland/FIN03032020C/2020	EPI_ISL_413604	?	Department of Virology and Immunology, University of Helsinki and Helsinki University Hospital, Huslab Finland	Department of Virology, Faculty of Medicine, University of Helsinki, Helsinki, Finland	Teemu Smura et al
+Georgia/Tb-673/2020	EPI_ISL_416478	?	R. G. Lugar Center for Public Health Research, National Center for Disease Control and Public Health (NCDC) of Georgia.	R. G. Lugar Center for Public Health Research, National Center for Disease Control and Public Health (NCDC) of Georgia.	Marine Murtskhvaladze et al
+Germany/BAV-MVP0011/2020	EPI_ISL_437212	?	Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU München	Laboratory for Functional Genome Analysis, Dept. Genomics, Gene Center of the LMU Munich	Max Muenchhoff et al
+Germany/BAV-MVP0035/2020	EPI_ISL_437234	?	Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU München	Laboratory for Functional Genome Analysis, Dept. Genomics, Gene Center of the LMU Munich	Max Muenchhoff et al
+Germany/BAV-MVP0059/2020	EPI_ISL_437258	?	Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU München	Laboratory for Functional Genome Analysis, Dept. Genomics, Gene Center of the LMU Munich	Max Muenchhoff et al
+Germany/BAV-MVP0095/2020	EPI_ISL_437287	?	Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU München	Laboratory for Functional Genome Analysis, Dept. Genomics, Gene Center of the LMU Munich	Max Muenchhoff et al
+Germany/BAV-MVP0098/2020	EPI_ISL_452104	?	Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU München	Laboratory for Functional Genome Analysis, Dept. Genomics, Gene Center of the LMU Munich	Max Muenchhoff et al
+Germany/BAV-MVP0100/2020	EPI_ISL_437291	?	Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU München	Laboratory for Functional Genome Analysis, Dept. Genomics, Gene Center of the LMU Munich	Max Muenchhoff et al
+Germany/BAV-MVP0101/2020	EPI_ISL_437292	?	Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU München	Laboratory for Functional Genome Analysis, Dept. Genomics, Gene Center of the LMU Munich	Max Muenchhoff et al
+Germany/BAV-MVP0110/2020	EPI_ISL_451936	?	Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU München	Laboratory for Functional Genome Analysis, Dept. Genomics, Gene Center of the LMU Munich	Max Muenchhoff et al
+Germany/Baden-Wuerttemberg-1/2020	EPI_ISL_412912	?	State Health Office Baden-Wuerttemberg	Charité Universitätsmedizin Berlin, Institute of Virology	Victor M Corman et al
+Germany/FrankfurtFFM3/2020	EPI_ISL_452219	?	University Hospital Frankfurt	Widera/Toptan	Tuna Toptan1 et al
+Germany/FrankfurtFFM7/2020	EPI_ISL_452223	?	University Hospital Frankfurt	Widera/Toptan	Tuna Toptan1 et al
+Germany/NRW-19/2020	EPI_ISL_417464	?	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Duesseldorf	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Duesseldorf	Ortwin Adams et al
+Germany/NRW-51/2020	EPI_ISL_425135	?	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Duesseldorf	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Duesseldorf	Ortwin Adams et al
+Ghana/1622_S2/2020	EPI_ISL_422384	?	NMIMR, Department of Virology	WACCBIP, University of Ghana	Joyce M. Ngoi et al
+Greece/127_HPI/2020	EPI_ISL_430469	?	Hellenic Pasteur Institute, Public Health Laboratories	Hellenic Pasteur Institute, Public Health Laboratories, Unit of Bioinformatics and Applied Genomics	Vasiliki Pogka et al
+Greece/135/2020	EPI_ISL_434476	?	Laboratory of Microbiology, Medical School, National and Kapodistrian University of Athens	Laboratory of Biology, Department of Medicine, Democritus University of Thrace	Kassela K. et al
+Greece/139/2020	EPI_ISL_434472	?	Laboratory of Microbiology, Medical School, National and Kapodistrian University of Athens	Laboratory of Biology, Department of Medicine, Democritus University of Thrace	Kassela K. et al
+Greece/250_32267/2020	EPI_ISL_447648	?	unknown	Department of Medicine	Kassela et al
+Guangdong/SYSU-IHV/2020	EPI_ISL_444969	?	Guangzhou Eighth People's Hospital (Jiahe Sector)	Institute of Human Virology, Zhongshan School of Medicine, Sun Yat-sen University	Junsong Zhang et al
+HongKong/HKPU17_2201/2020	EPI_ISL_417180	?	Department of Pathology, United Christian Hospital	Department of Health Technology and Informatics, Faculty of Health and Social Science, The Hong Kong Polytechnic University	Kenneth Siu-Sing LEUNG et al
+HongKong/HKPU28_3001/2020	EPI_ISL_417185	?	Department of Pathology, United Christian Hospital	Department of Health Technology and Informatics, Faculty of Health and Social Science, The Hong Kong Polytechnic University	Kenneth Siu-Sing LEUNG et al
+Hungary/SRC-00055/2020	EPI_ISL_435419	?	Virological Research Group, Szentágothai Research Centre	Bioinformatics Research Group, Szentágothai Research Centre	Péter Urbán et al
+Hungary/SRC-00417/2020	EPI_ISL_435409	?	Virological Research Group, Szentágothai Research Centre	Bioinformatics Research Group, Szentágothai Research Centre	Péter Urbán et al
+Iceland/108/2020	EPI_ISL_417708	?	The National University Hospital of Iceland	deCODE genetics	Daniel F Gudbjartsson et al
+Iceland/111/2020	EPI_ISL_417691	?	The National University Hospital of Iceland	deCODE genetics	Daniel F Gudbjartsson et al
+Iceland/159/2020	EPI_ISL_417806	?	The National University Hospital of Iceland	deCODE genetics	Daniel F Gudbjartsson et al
+Iceland/300/2020	EPI_ISL_417629	?	The National University Hospital of Iceland	deCODE genetics	Daniel F Gudbjartsson et al
+Iceland/38/2020	EPI_ISL_417672	?	deCODE genetics	deCODE genetics	Daniel F Gudbjartsson et al
+Iceland/53/2020	EPI_ISL_417851	?	The National University Hospital of Iceland	deCODE genetics	Daniel F Gudbjartsson et al
+Iceland/6/2020	EPI_ISL_417854	?	The National University Hospital of Iceland	deCODE genetics	Daniel F Gudbjartsson et al
+India/NCDC-4879/2020	EPI_ISL_436463	?	National Centre for Disease control (NCDC)	NCDC/CSIR-IGIB	Pramod Kumar# et al
+India/c31/2020	EPI_ISL_426179	?	National Influenza Center, Indian Council of Medical Research - National Institute of Virology	Indian Council of Medical Research-National Institute of Virology, Microbial Containment Complex	Pragya D. Yadav et al
+Ireland/24052/2020	EPI_ISL_418584	?	UCD National Virus Reference Laboratory	UCD National Virus Reference Laboratory	Michael Carr et al
+Ireland/Limerick-19935/2020	EPI_ISL_414587	?	UCD National Virus Reference Laboratory	UCD National Virus Reference Laboratory	Michael Carr et al
+Israel/13075703/2020	EPI_ISL_447450	?	Clinical Microbiology Laboratory, Sheba Medical Center	Stern Lab	Stern Lab et al
+Israel/2046434/2020	EPI_ISL_447404	?	Clinical Microbiology Laboratory, The Baruch Padeh Medical Center, Poriya	Stern Lab	Stern Lab et al
+Israel/2047586/2020	EPI_ISL_447389	?	Clinical Microbiology Laboratory, The Baruch Padeh Medical Center, Poriya	Stern Lab	Stern Lab et al
+Israel/2047749/2020	EPI_ISL_447386	?	Clinical Microbiology Laboratory, The Baruch Padeh Medical Center, Poriya	Stern Lab	Stern Lab et al
+Israel/701002752/2020	EPI_ISL_447284	?	Microbiology Division, Barzilai University Medical Center	Stern Lab	Stern Lab et al
+Israel/ISR_IT0320/2020	EPI_ISL_419210	?	The Chaim Sheba Medical Center	Israel Institute for Biological Research	Inbar Cohen-Gihon et al
+Italy/2389/2020	EPI_ISL_457728	?	Department of Infectious Diseases, Istituto Superiore di Sanità, Roma , Italy	Army Medical and Veterinary Research Center	Paola Stefanelli et al
+Italy/4870/2020	EPI_ISL_457732	?	Department of Infectious Diseases, Istituto Superiore di Sanità, Roma , Italy	Army Medical and Veterinary Research Center	Paola Stefanelli et al
+Italy/BG-5825-22Feb/2020	EPI_ISL_460079	?	Molecular Virology Unit, Fondazione IRCCS Policlinico San Matteo , Pavia	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Barbara Bartolini et al
+Italy/BG-7158-24Feb/2020	EPI_ISL_460081	?	Molecular Virology Unit, Fondazione IRCCS Policlinico San Matteo , Pavia	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Fausto Baldanti et al
+Italy/CDG1/2020	EPI_ISL_412973	?	Department of Infectious Diseases, Istituto Superiore di Sanità, Roma , Italy	Virology Laboratory, Scientific Department, Army Medical Center	Paola Stefanelli et al
+Italy/CR-13221-1Mar/2020	EPI_ISL_460085	?	Molecular Virology Unit, Fondazione IRCCS Policlinico San Matteo , Pavia	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Cesare E.M. Gruber et al
+Italy/CR-9206-26Feb/2020	EPI_ISL_460087	?	Molecular Virology Unit, Fondazione IRCCS Policlinico San Matteo , Pavia	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Cesare E.M. Gruber et al
+Italy/CR-9491-26Feb/2020	EPI_ISL_460089	?	Molecular Virology Unit, Fondazione IRCCS Policlinico San Matteo , Pavia	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Antonino Di Caro et al
+Italy/FVG-ICGEB_S8/2020	EPI_ISL_417421	?	Laboratory of Molecular Virology International Center for Genetic Engineering and Biotechnology (ICGEB)	ARGO Open Lab Platform for Genome sequencing	Licastro D et al
+Italy/INMI2-B/2020	EPI_ISL_451301	?	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Martina Rueca et al
+Italy/INMI2-N/2020	EPI_ISL_451302	?	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Cesare E.M. Gruber et al
+Italy/INMI4/2020	EPI_ISL_417922	?	INMI Lazzaro Spallanzani IRCCS	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Cesare E. M. Gruber et al
+Italy/INMI6/2020	EPI_ISL_419254	?	INMI Lazzaro Spallanzani IRCCS	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Barbara Bartolini et al
+Italy/LO-13075-N/2020	EPI_ISL_451309	?	Molecular Virology Unit, Fondazione IRCCS Policlinico San Matteo , Pavia	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Fausto Baldanti et al
+Italy/MI-5925-22Feb/2020	EPI_ISL_460091	?	Molecular Virology Unit, Fondazione IRCCS Policlinico San Matteo , Pavia	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Antonino Di Caro et al
+Italy/PV-5314-N/2020	EPI_ISL_451307	?	Molecular Virology Unit, Fondazione IRCCS Policlinico San Matteo , Pavia	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Fausto Baldanti et al
+Italy/SPL1/2020	EPI_ISL_412974	?	Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy	Virology Laboratory, Scientific Department, Army Medical Center	Paola Stefanelli et al
+Italy/TE26643/2020	EPI_ISL_436729	?	SERVIZIO DI IGIENE E SANITÀ PUBBLICA ASL Teramo	Istituto Zooprofilattico Sperimentale dell’Abruzzo e Molise “G. Caporale”	Lorusso A et al
+Italy/TE4953/2020	EPI_ISL_418258	?	Presidio ospedaliero Santo Spirito	Istituto Zooprofilattico Sperimentale dell'Abruzzo e Molise G. Caporale	Lorusso A et al
+Italy/TE5052/2020	EPI_ISL_418261	?	Ospedale Civile Giuseppe Mazzini	Istituto Zooprofilattico Sperimentale dell'Abruzzo e Molise G. Caporale	Lorusso A et al
+Italy/TE5551/2020	EPI_ISL_429226	?	Presidio Ospedaliero Santo Spirito	Istituto Zooprofilattico Sperimentale dell'Abruzzo e Molise G. Caporale	Lorusso A et al
+Italy/UniMI03/2020	EPI_ISL_417447	?	Laboratory of Infectious Diseases, Department of Biomedical and Clinical Sciences L. Sacco, University of Milan	Laboratory of Infectious Diseases, Department of Biomedical and Clinical Sciences L. Sacco, University of Milan	Gianguglielmo Zehender et al
+Italy/UniSR1/2020	EPI_ISL_413489	?	Laboratorio di Microbiologia e Virologia, Università Vita-Salute San Raffaele, Milano	Laboratorio di Microbiologia e Virologia, Università Vita-Salute San Raffaele, Milano	R.A Diotti et al
+Italy/VR_20COV21-37/2020	EPI_ISL_422438	?	ULSS9 Distretto di Bussolengo	Istituto Zooprofilattico Sperimentale delle Venezie	Adelaide Milani et al
+Jamaica/JM-CDC-6603/2020	EPI_ISL_450797	?	Jamaica Ministry of Health and Wellness	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Yan Li et al
+Jamaica/JM-CDC-6729/2020	EPI_ISL_450798	?	Jamaica Ministry of Health and Wellness	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Krista Queen et al
+Jamaica/JM-CDC-7286/2020	EPI_ISL_450799	?	Jamaica Ministry of Health and Wellness	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Yan Li et al
+Japan/P1/2020	EPI_ISL_419296	?	Kochi Prefectural Institute of Public Health	Pathogen Genomics Center, National Institute of Infectious Diseases	Tsuyoshi Sekizuka et al
+Japan/P2-1/2020	EPI_ISL_419297	?	Chiba Prefectural Institute of Public Health	Pathogen Genomics Center, National Institute of Infectious Diseases	Tsuyoshi Sekizuka et al
+Japan/P2-2/2020	EPI_ISL_419298	?	Chiba Prefectural Institute of Public Health	Pathogen Genomics Center, National Institute of Infectious Diseases	Tsuyoshi Sekizuka et al
+Japan/P3-1/2020	EPI_ISL_419299	?	Ishikawa Prefectural Institute of Public Health and Environmental Science	Pathogen Genomics Center, National Institute of Infectious Diseases	Tsuyoshi Sekizuka et al
+Japan/P3-2/2020	EPI_ISL_419300	?	Ishikawa Prefectural Institute of Public Health and Environmental Science	Pathogen Genomics Center, National Institute of Infectious Diseases	Tsuyoshi Sekizuka et al
+Japan/P4-1/2020	EPI_ISL_419301	?	Saitama Prefectural Institute of Public Health	Pathogen Genomics Center, National Institute of Infectious Diseases	Tsuyoshi Sekizuka et al
+Japan/P4-2/2020	EPI_ISL_419302	?	Saitama Prefectural Institute of Public Health	Pathogen Genomics Center, National Institute of Infectious Diseases	Tsuyoshi Sekizuka et al
+Japan/P4-3/2020	EPI_ISL_419303	?	Saitama Prefectural Institute of Public Health	Pathogen Genomics Center, National Institute of Infectious Diseases	Tsuyoshi Sekizuka et al
+Japan/P4-4/2020	EPI_ISL_419304	?	Saitama Prefectural Institute of Public Health	Pathogen Genomics Center, National Institute of Infectious Diseases	Tsuyoshi Sekizuka et al
+Japan/P5-1/2020	EPI_ISL_419309	?	Chiba Prefectural Institute of Public Health	Pathogen Genomics Center, National Institute of Infectious Diseases	Tsuyoshi Sekizuka et al
+Jordan/SR-0335/2020	EPI_ISL_450187	?	Biolab Diagnostic Laboratories	Andersen lab at Scripps Research	Issa Abu-Dayyeh et al
+Kazakhstan/16173/2020	EPI_ISL_454497	?	RSE National Center for Biotechnology	RSE National Center for Biotechnology	Alexandr Shevtsov et al
+Kazakhstan/16183/2020	EPI_ISL_454576	?	Laboratory of virology, National Center of Expertise	Laboratory of molecular-genetic research, National Center of Expertise, Kazakhstan National Center for Biotechnology, Kazakhstan	Abdaliyev Askar et al
+Kazakhstan/22001/2020	EPI_ISL_454582	?	Laboratory of virology, National Center of Expertise	Laboratory of molecular-genetic research, National Center of Expertise, Kazakhstan National Center for Biotechnology, Kazakhstan	Abdaliyev Askar et al
+Kazakhstan/22044/2020	EPI_ISL_454584	?	Laboratory of virology, National Center of Expertise	Laboratory of molecular-genetic research, National Center for Expertise, Kazakhstan National Center for Biotechnology, Kazakhstan	Abdaliyev Askar et al
+Kazakhstan/7341/2020	EPI_ISL_454572	?	National Center of Expertise	National Center for Expertise, Kazakhstan National Center for Biotechnology, Kazakhstan	Abdaliyev Askar et al
+Korea/KCDC2001/2020	EPI_ISL_425117	?	Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention	Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention	Jeong-Min Kim et al
+Kuwait/KU006/2020	EPI_ISL_422424	?	Jaber Al Ahmad Al Sabah Hospital	Dasman diabetes Institute	Fahd Al-Mulla et al
+Kuwait/KU008/2020	EPI_ISL_422427	?	JABER AL AHMAD AL SABAH HOSPITAL – KUWAIT CITY	Dasman Diabetes Institute	Fahd Al-Mulla et al
+Latvia/016/2020	EPI_ISL_437095	?	Latvijas Infektoloģijas centrs	Latvian Biomedical Research and Study Centre	Ivars Silamiķelis et al
+Lebanon/S1_758/2020	EPI_ISL_450508	?	Rafik Hariri University Hospital	Rafik Hariri University Hospital	Rita Feghali et al
+Luxembourg/LNS0113568/2020	EPI_ISL_428942	?	Laboratoire National de Sante, Microbiology, Virology	Laboratoire National de Sante, Microbiology, Epidemiology and Microbial Genomics	Anke Wienecke-Baldacchino et al
+Luxembourg/LNS0366116/2020	EPI_ISL_419564	?	Laboratoire National de Santé, Microbiology, Virology	Laboratoire National de Santé, Microbiology, Epidemiology and Microbial Genomics	Anke Wienecke-Baldacchino et al
+Luxembourg/LNS0591129/2020	EPI_ISL_419565	?	Laboratoire National de Santé, Microbiology, Virology	Laboratoire National de Santé, Microbiology, Epidemiology and Microbial Genomics	Anke Wienecke-Baldacchino et al
+Luxembourg/LNS0994857/2020	EPI_ISL_429777	?	Laboratoire National de Sante, Microbiology, Virology	Laboratoire National de Sante, Microbiology, Epidemiology and Microbial Genomics	Anke Wienecke-Baldacchino et al
+Luxembourg/LNS2128808/2020	EPI_ISL_417530	?	Laboratoire Nationale de Santé, Microbiology, Virology	Laboratoire Nationale de Santé, Microbiology, Epidemiology and Microbial Genomics	Anke Wienecke-Baldacchino et al
+Luxembourg/LNS2580723/2020	EPI_ISL_429778	?	Laboratoire National de Sante, Microbiology, Virology	Laboratoire National de Sante, Microbiology, Epidemiology and Microbial Genomics	Anke Wienecke-Baldacchino et al
+Luxembourg/LNS3156434/2020	EPI_ISL_419582	?	Laboratoire National de Santé, Microbiology, Virology	Laboratoire National de Santé, Microbiology, Epidemiology and Microbial Genomics	Anke Wienecke-Baldacchino et al
+Luxembourg/LNS7341568/2020	EPI_ISL_429744	?	Laboratoire National de Sante, Microbiology, Virology	Laboratoire National de Sante, Microbiology, Epidemiology and Microbial Genomics	Anke Wienecke-Baldacchino et al
+Luxembourg/LNS7721101/2020	EPI_ISL_429769	?	Laboratoire National de Sante, Microbiology, Virology	Laboratoire National de Sante, Microbiology, Epidemiology and Microbial Genomics	Anke Wienecke-Baldacchino et al
+Luxembourg/LNS7991123/2020	EPI_ISL_421753	?	Laboratoire National de Sante, Microbiology, Virology	Laboratoire National de Sante, Microbiology, Epidemiology and Microbial Genomics	Anke Wienecke-Baldacchino et al
+Luxembourg/LNS9470500/2020	EPI_ISL_434505	?	Laboratoire National de Sante, Microbiology, Virology	Laboratoire National de Sante, Microbiology, Epidemiology and Microbial Genomics	Anke Wienecke-Baldacchino et al
+Luxembourg/LNS9652104/2020	EPI_ISL_419605	?	Laboratoire National de Santé, Microbiology, Virology	Laboratoire National de Santé, Microbiology, Epidemiology and Microbial Genomics	Anke Wienecke-Baldacchino et al
+Mexico/CDMX-InDRE_01/2020	EPI_ISL_412972	?	Instituto Nacional de Enfermedades Respiratorias	Instituto de Diagnostico y Referencia Epidemiologicos (INDRE)	Ramirez-Gonzalez Ernesto et al
+Mexico/CDMX-InDRE_10/2020	EPI_ISL_455434	?	Instituto de Diagnostico y Referencia Epidemiologicos (INDRE)	Instituto de Diagnostico y Referencia Epidemiologicos (INDRE)	Taboada Ramírez Blanca. Ramirez-Gonzalez Ernesto et al
+Morocco/6887/2020	EPI_ISL_459965	?	Insititut Paasteur du Maroc	Insititut Paasteur du Maroc	Marion Barbet et al
+Morocco/6889/2020	EPI_ISL_459967	?	Insititut Paasteur du Maroc	Insititut Paasteur du Maroc	Marion Barbet et al
+Morocco/6898/2020	EPI_ISL_459976	?	Insititut Paasteur du Maroc	Insititut Paasteur du Maroc	Marion Barbet et al
+Netherlands/Berlicum_1363564/2020	EPI_ISL_413565	?	Foundation Pamm	Erasmus Medical Center	David Nieuwenhuijse et al
+Netherlands/NA_176/2020	EPI_ISL_422711	?	Dutch COVID-19 response team	Erasmus Medical Center	Bas Oude Munnink et al
+Netherlands/NoordBrabant_22/2020	EPI_ISL_414531	?	Dutch COVID-19 response team	Erasmus Medical Center	David Nieuwenhuijse et al
+Netherlands/NoordBrabant_25/2020	EPI_ISL_414534	?	Dutch COVID-19 response team	Erasmus Medical Center	David Nieuwenhuijse et al
+Netherlands/Utrecht_46/2020	EPI_ISL_414552	?	Dutch COVID-19 response team	Erasmus Medical Center	David Nieuwenhuijse et al
+Netherlands/Zeewolde_1365080/2020	EPI_ISL_413591	?	MHC Flevoland	Erasmus Medical Center	David Nieuwenhuijse et al
+Netherlands/ZuidHolland_10004/2020	EPI_ISL_454753	?	Dutch COVID-19 response team	National Institute for Public Health and the Environment (RIVM)	Adam Meijer et al
+Nigeria/OS060-CV9/2020	EPI_ISL_455419	?	Nigeria Centre for Disease Control (NCDC)	African Centre of Excellence for Genomics of Infectious Diseases (ACEGID), Redeemer's University, Ede, Osun State, Nigeria	Oluniyi P.E. et al
+Norway/1951/2020	EPI_ISL_420145	?	Forde Hospital Department of Microbiology	Norwegian Institute of Public Health, Department of Virology	Kathrine Stene-Johansen et al
+Norway/1989/2020	EPI_ISL_420147	?	Hospital of Southern Norway - Kristiansand, Department of Medical Microbiology	Norwegian Institute of Public Health, Department of Virology	Kathrine Stene-Johansen et al
+Norway/Trondheim-E9/2020	EPI_ISL_450351	?	St.Olavs hospital/NTNU	Institute of Genomics Core Facility, University of Tartu	Aleksandr Ianevski et al
+Norway/Trondheim-S4/2020	EPI_ISL_450346	?	St.Olavs hospital/NTNU	Institute of Genomics Core Facility, University of Tartu	Aleksandr Ianevski et al
+Oman/205029065/2020	EPI_ISL_457982	?	Oman-NIC	Department of Microbiology and Immunology-SQUH	Fahad Zadjali et al
+Oman/RESP-20-4028/2020	EPI_ISL_457987	?	Oman-NIC	Oman-NIC	Samira Al-Maruqi et al
+Poland/1105644/2020	EPI_ISL_428233	?	Hematology Laboratory, Section of Molecular Diagnostics, University Clinical Centre, Medical University of Gdansk	Department of Virology, Faculty of Medicine, University of Helsinki, Helsinki, Finland	Marlena Robakowska et al
+Poland/Wro-02/2020	EPI_ISL_437625	?	Laboratory of Genomics & Bioinformatics, Institute of Immunology and Experimental Therapy, Polish Academy of Sciences Oddzial Mikrobiologii Wojewodzkiej Stacji Sanitarno-Epidemiologicznej.	Laboratory of Genomics & Bioinformatics, Institute of Immunology and Experimental Therapy, Polish Academy of Sciences	Dorota Kujawa et al
+Portugal/PT0163/2020	EPI_ISL_453879	?	unknown	Instituto Nacional de Saude (INSA)	Borges et al et al
+Portugal/PT0202/2020	EPI_ISL_455626	?	unknown	Instituto Nacional de Saude (INSA)	Borges et al et al
+Portugal/PT0300/2020	EPI_ISL_454016	?	unknown	Instituto Nacional de Saude (INSA)	Borges et al et al
+Portugal/PT0358/2020	EPI_ISL_454074	?	unknown	Instituto Nacional de Saude (INSA)	Borges et al et al
+Portugal/PT0391a/2020	EPI_ISL_454110	?	unknown	Instituto Nacional de Saude (INSA)	Borges et al et al
+Portugal/PT0405/2020	EPI_ISL_454129	?	unknown	Instituto Nacional de Saude (INSA)	Borges et al et al
+Portugal/PT0549/2020	EPI_ISL_455627	?	unknown	Instituto Nacional de Saude (INSA)	Borges et al et al
+Russia/Moscow-71604/2020	EPI_ISL_428876	?	State Research Center of Virology and Biotechnology VECTOR, Department of Collection of Microorganisms	State Research Center of Virology and Biotechnology VECTOR, Department of Collection of Microorganisms	Sergey A. Bodnev et al
+Russia/Moscow-80402/2020	EPI_ISL_428905	?	State Research Center of Virology and Biotechnology VECTOR, Department of Collection of Microorganisms	State Research Center of Virology and Biotechnology VECTOR, Department of Collection of Microorganisms	Sergey A. Bodnev et al
+Russia/StPetersburg-64304/2020	EPI_ISL_428868	?	State Research Center of Virology and Biotechnology VECTOR, Department of Collection of Microorganisms	State Research Center of Virology and Biotechnology VECTOR, Department of Collection of Microorganisms	Oleg V. Pyankov et al
+Russia/StPetersburg-RII3992/2020	EPI_ISL_420080	?	WHO National Influenza Centre Russian Federation	WHO National Influenza Centre Russian Federation	Andrey Komissarov et al
+Russia/StPetersburg-RII4326S/2020	EPI_ISL_427337	?	WHO National Influenza Centre Russian Federation	WHO National Influenza Centre Russian Federation	Andrey Komissarov et al
+Russia/StPetersburg-RII4936S/2020	EPI_ISL_430071	?	WHO National Influenza Centre Russian Federation	WHO National Influenza Centre Russian Federation	Andrey Komissarov et al
+Scotland/CVR01/2020	EPI_ISL_413221	?	West of Scotland Specialist Virology Centre, NHSGGC	MRC-University of Glasgow Centre for Virus Research	Emma Thomson et al
+Scotland/CVR18/2020	EPI_ISL_425720	?	West of Scotland Specialist Virology Centre, NHSGGC / MRC-University of Glasgow Centre for Virus Research	COVID-19 Genomics UK (COG-UK) Consortium	Ana da Silva Filipe et al
+Senegal/003/2020	EPI_ISL_418206	?	Institut Pasteur Dakar	Institut Pasteur de Dakar	Ndongo Dia et al
+Senegal/016/2020	EPI_ISL_418207	?	Institut Pasteur Dakar	Institut Pasteur de Dakar	Ndongo Dia et al
+Senegal/026/2020	EPI_ISL_418209	?	Institut Pasteur Dakar	Institut Pasteur de Dakar	Ndongo Dia et al
+Senegal/328/2020	EPI_ISL_420071	?	Institut Pasteur Dakar	Institut Pasteur de Dakar	Ndongo Dia et al
+Senegal/382/2020	EPI_ISL_420073	?	Institut Pasteur Dakar	Institut Pasteur de Dakar	Ndongo Dia et al
+Senegal/611/2020	EPI_ISL_420076	?	Institut Pasteur Dakar	Institut Pasteur de Dakar	Ndongo Dia et al
+Singapore/27/2020	EPI_ISL_420104	?	National Centre for Infectious Diseases	Programme in Emerging Infectious Diseases, Duke-NUS Medical School	Danielle E Anderson et al
+Singapore/4/2020	EPI_ISL_410535	?	National Centre for Infectious Diseases	Programme in Emerging Infectious Diseases, Duke-NUS Medical School	Danielle E Anderson et al
+Slovakia/SK-BMC5/2020	EPI_ISL_417879	?	Institute of Virology, Biomedical Research Center of the Slovak Academy of Sciences, Bratislava; Public Health Authority of the Slovak Republic, Bratislava	Institute of Virology, Biomedical Research Center of the Slovak Academy of Sciences, Bratislava; Comenius University Science Park, Bratislava	Monika Slávikova et al
+Spain/Alicante569/2020	EPI_ISL_447500	?	Servicio de Microbiologia. Hospital Clinico Universitario de Valencia	Sequencing and Bioinformatics Service and Molecular Epidemiology Research Group. FISABIO-Public Health	Maria Alma Bracho et al
+Spain/COV000691/2020	EPI_ISL_452773	?	Hospital Universitario Araba. Vitoria-Gasteiz,	SeqCOVID-SPAIN consortium/IBV(CSIC)	Silvia Hernáez Crespo et al
+Spain/COV000859/2020	EPI_ISL_452693	?	Hospital Universitario Araba. Vitoria-Gasteiz,	SeqCOVID-SPAIN consortium/IBV(CSIC)	Silvia Hernáez Crespo et al
+Spain/Valencia105/2020	EPI_ISL_436200	?	Servicio de Microbiología. Consorcio Hospital General Universitario de Valencia	Sequencing and Bioinformatics Service and Molecular Epidemiology Research Group. FISABIO-Public Health	Neris Garcia-Gonzalez et al
+Spain/Valencia25/2020	EPI_ISL_419689	?	Servicio de Microbiología. Consorcio Hospital General Universitario de Valencia	Sequencing and Bioinformatics Service and Molecular Epidemiology Research Group. FISABIO-Public Health	Neris Garcia-Gonzalez et al
+SriLanka/COV53/2020	EPI_ISL_428671	?	Centre for Dengue Research	Centre for Dengue Research	Chandima Jeewandara et al
+Sweden/20-06468/2020	EPI_ISL_434655	?	Uppsala Narakut Aleris	The Public Health Agency of Sweden	Annika Nilsson et al
+Sweden/20-08101/2020	EPI_ISL_454472	?	Karolinska Universitetslaboratoriet	The Public Health Agency of Sweden	Anna-Malin Linde et al
+Sweden/20-08104/2020	EPI_ISL_454475	?	Karolinska Universitetslaboratoriet	The Public Health Agency of Sweden	Anna-Malin Linde et al
+Sweden/20-50055/2020	EPI_ISL_454870	?	Karolinska Universitetslaboratoriet	The Public Health Agency of Sweden	Anna-Malin Linde et al
+Sweden/20-50107/2020	EPI_ISL_454881	?	Karolinska Universitetslaboratoriet	The Public Health Agency of Sweden	Anna-Malin Linde et al
+Sweden/20-50230/2020	EPI_ISL_429155	?	Klinisk mikrobiologi Orebro	The Public Health Agency of Sweden	Martin Sundqvist et al
+Switzerland/1000477102/2020	EPI_ISL_413019	?	Department of Internal Medicine, Triemli Hospital	Institute of Medical Virology, University of Zurich	Stefan Schmutz et al
+Switzerland/1000477796/2020	EPI_ISL_413022	?	Division of Infectious Diseases, University Hospital Zurich	Institute of Medical Virology, University of Zurich	Stefan Schmutz et al
+Switzerland/1000477797/2020	EPI_ISL_413023	?	Division of Infectious Diseases, University Hospital Zurich	Institute of Medical Virology, University of Zurich	Stefan Schmutz et al
+Switzerland/100075/2020	EPI_ISL_451668	?	Viollier AG	Department of Biosystems Science and Engineering, ETH Zürich	Christian Beisel et al
+Switzerland/100081/2020	EPI_ISL_451673	?	Viollier AG	Department of Biosystems Science and Engineering, ETH Zürich	Christian Beisel et al
+Switzerland/100126/2020	EPI_ISL_451710	?	Viollier AG	Department of Biosystems Science and Engineering, ETH Zürich	Christian Beisel et al
+Switzerland/100146/2020	EPI_ISL_451730	?	Viollier AG	Department of Biosystems Science and Engineering, ETH Zürich	Christian Beisel et al
+Switzerland/100826/2020	EPI_ISL_451775	?	Viollier AG	Department of Biosystems Science and Engineering, ETH Zürich	Christian Beisel et al
+Switzerland/100830/2020	EPI_ISL_451778	?	Viollier AG	Department of Biosystems Science and Engineering, ETH Zürich	Christian Beisel et al
+Switzerland/42169171/2020	EPI_ISL_418271	?	University Hospital Basel, Clinical Virology	University Hospital Basel, Labormedizin	Hirsch et al
+Switzerland/42176771/2020	EPI_ISL_418285	?	University Hospital Basel, Clinical Virology	University Hospital Basel, Clinical Bacteriology	Hirsch et al
+Switzerland/42177236/2020	EPI_ISL_418433	?	University Hospital Basel, Clinical Virology	University Hospital Basel, Clinical Bacteriology	Hirsch et al
+Switzerland/BL0902/2020	EPI_ISL_414021	?	Laboratoire de Virologie, HUG	Swiss National Reference Centre for Influenza	LAUBSCHER Florian et al. et al
+Switzerland/GE3895/2020	EPI_ISL_413997	?	Laboratoire de Virologie, HUG	Swiss National Reference Centre for Influenza	LAUBSCHER Florian et al. et al
+Switzerland/GE4135/2020	EPI_ISL_415705	?	Hôpitaux universitaires de Genève Laboratoire de Virologie	Hôpitaux universitaires de Genève Laboratoire de Virologie	Laubscher F. et al
+Switzerland/GR3043/2020	EPI_ISL_415699	?	Hôpitaux universitaires de Genève Laboratoire de Virologie	Hôpitaux universitaires de Genève Laboratoire de Virologie	Laubscher F. et al
+Switzerland/TI9486/2020	EPI_ISL_413996	?	Laboratoire de Virologie, HUG	Swiss National Reference Centre for Influenza	LAUBSCHER Florian et al. et al
+Taiwan/CGMH-CGU-09/2020	EPI_ISL_417522	?	Laboratory Medicine	Department of Laboratory Medicine, Lin-Kou Chang Gung Memorial Hospital, Taoyuan, Taiwan	Kuo-Chien Tsao et al
+Taiwan/NTU06/2020	EPI_ISL_422409	?	Department of Laboratory Medicine, National Taiwan University Hospital	Microbial Genomics Core Lab, National Taiwan University Centers of Genomic and Precision Medicine	Shiou-Hwei Yeh et al
+Taiwan/NTU08/2020	EPI_ISL_422411	?	Department of Laboratory Medicine, National Taiwan University Hospital	Microbial Genomics Core Lab, National Taiwan University Centers of Genomic and Precision Medicine	Shiou-Hwei Yeh et al
+Taiwan/NTU10/2020	EPI_ISL_447614	?	Department of Laboratory Medicine, National Taiwan University Hospital	Microbial Genomics Core Lab, National Taiwan University Centers of Genomic and Precision Medicine	Shiou-Hwei Yeh et al
+Taiwan/NTU15/2020	EPI_ISL_422417	?	Department of Laboratory Medicine, National Taiwan University Hospital	Microbial Genomics Core Lab, National Taiwan University Centers of Genomic and Precision Medicine	Shiou-Hwei Yeh et al
+Taiwan/TSGH-36/2020	EPI_ISL_457730	?	TSGH-CP molecular lab	TSGH-CP molecular lab	Cherng-Lih Perng et al
+Thailand/Bangkok-0072/2020	EPI_ISL_447013	?	Ramathibodi Hospital	COVID-19 Network Investigations (CONI) Alliance	Elizabeth Batty et al
+Thailand/Bangkok-0077/2020	EPI_ISL_447018	?	Ramathibodi Hospital	COVID-19 Network Investigations (CONI) Alliance	Elizabeth Batty et al
+Turkey/HSGM-4698/2020	EPI_ISL_437332	?	Ministry of Health Turkey	Ministry of Health Turkey	Fatma Bayrakdar et al
+Turkey/HSGM-4706/2020	EPI_ISL_428712	?	Ministry of Health Turkey	Ministry of Health Turkey	Fatma Bayrakdar et al
+USA/CA-CZB086/2020	EPI_ISL_429033	?	UCSF Clinical Microbiology Laboratory	Chan-Zuckerberg Biohub	CZB Cliahub Consortium et al
+USA/FL_5125/2020	EPI_ISL_419559	?	FL Bureau of Public Health Laboratories-Tampa	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Anna Uehara et al
+USA/IL-UW353/2020	EPI_ISL_418920	?	UW Virology Lab	UW Virology Lab	Pavitra Roychoudhury et al
+USA/MI-MDHHS-SC20535/2020	EPI_ISL_460583	?	Michigan Department of Health and Human Services, Bureau of Laboratories	Michigan Department of Health and Human Services, Bureau of Laboratories	Blankenship HM et al
+USA/NH_0004/2020	EPI_ISL_420791	?	NH Department of Health and Human Services Public Health Labs	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Krista Queen et al
+USA/NY-SURV0240/2020	EPI_ISL_436059	?	NYC Department of Health and Mental Hygiene	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Ying Tao et al
+USA/WA-S781/2020	EPI_ISL_449951	?	Washington State Department of Health	Seattle Flu Study	Chu et al et al
+Uganda/UG015/2020	EPI_ISL_451197	?	Uganda Virus Research Institute	MRC/UVRI & LSHTM Uganda Research Unit	Dan Lule Bugembe et al
+UnitedArabEmirates/L0881/2020	EPI_ISL_435125	?	Mohammed Bin Rashid University of Medicine and Health Sciences	Al Jalila Genomics Center	Ahmad Abou Tayoun et al
+UnitedArabEmirates/L2185/2020	EPI_ISL_435130	?	Mohammed Bin Rashid University of Medicine and Health Sciences	Al Jalila Genomics Center	Ahmad Abou Tayoun et al
+UnitedArabEmirates/L3779/2020	EPI_ISL_435132	?	Mohammed Bin Rashid University of Medicine and Health Sciences	Al Jalila Genomics Center	Ahmad Abou Tayoun et al
+Uruguay/UY-NYUMC868/2020	EPI_ISL_457964	?	Laboratorio de Biología Molecular Asociación Española Primera en Salud	Departments of Pathology and Medicine, New York University School of Medicine	Maria Victoria Elizondo et al
+Vietnam/39607/2020	EPI_ISL_416428	?	National Influenza Center, National Institute of Hygiene and Epidemiology (NIHE)	National Influenza Center, National Institute of Hygiene and Epidemiology (NIHE)	Le Quynh Mai et al
+Wales/PHWC-28A22/2020	EPI_ISL_445388	?	Wales Specialist Virology Centre	Public Health Wales Microbiology Cardiff	Catherine Moore et al
