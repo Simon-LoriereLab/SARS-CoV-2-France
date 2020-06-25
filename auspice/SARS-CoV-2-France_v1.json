@@ -717,8 +717,8 @@
             "longitude": 1.4395
           },
           "Asni\u00e8res-sur-Seine": {
-            "latitude": 48.9142,
-            "longitude": 2.2854
+            "latitude": 48.911508,
+            "longitude": 2.284362
           },
           "Blida": {
             "latitude": 36.4736,
@@ -765,16 +765,12 @@
             "longitude": 2.1887
           },
           "Gennevilliers": {
-            "latitude": 48.9255,
-            "longitude": 2.2933
+            "latitude": 48.927444,
+            "longitude": 2.292449
           },
           "Gilgit": {
             "latitude": 35.880589,
             "longitude": 74.448161
-          },
-          "Grand Princess cruise ship": {
-            "latitude": 38.308882,
-            "longitude": -123.779663
           },
           "Guangzhou": {
             "latitude": 23.123972,
@@ -785,8 +781,8 @@
             "longitude": 120.154501
           },
           "Juvisy-sur-Orge": {
-            "latitude": 48.69128,
-            "longitude": 2.37618
+            "latitude": 48.690609,
+            "longitude": 2.377581
           },
           "J\u00f6nk\u00f6ping": {
             "latitude": 57.777979,
@@ -854,7 +850,7 @@
           },
           "Rennes": {
             "latitude": 48.1173,
-            "longitude": 1.6778
+            "longitude": -1.6778
           },
           "Rome": {
             "latitude": 41.881118,
@@ -971,7 +967,7 @@
           },
           "Bretagne": {
             "latitude": 48.202,
-            "longitude": 2.9326
+            "longitude": -2.9326
           },
           "California": {
             "latitude": 36.357039,
@@ -1022,8 +1018,8 @@
             "longitude": 112.676644
           },
           "Ile de France": {
-            "latitude": 48.724751,
-            "longitude": 2.491522
+            "latitude": 48.8499,
+            "longitude": 2.637
           },
           "Illinois": {
             "latitude": 40.088552,
@@ -1109,13 +1105,25 @@
             "latitude": 25.2048,
             "longitude": 55.2708
           },
+          "Madagascar": {
+            "latitude": -18.7669,
+            "longitude": 46.8691
+          },
+          "Egypt": {
+            "latitude": 26.8206,
+            "longitude": 30.8025
+          },
+          "UK-and-Germany": {
+            "latitude": 54.526,
+            "longitude": 15.2551
+          },
           "Lombardy": {
             "latitude": 45.4791,
             "longitude": 9.8452
           },
-          "Iran": {
-            "latitude": 34.5732,
-            "longitude": 51.876
+          "South Korea": {
+            "latitude": 36.609249,
+            "longitude": 127.917932
           },
           "Switzerland": {
             "latitude": 46.8182,
@@ -1125,21 +1133,13 @@
             "latitude": 45.4408,
             "longitude": 12.3155
           },
-          "UK-and-Germany": {
-            "latitude": 54.526,
-            "longitude": 15.2551
+          "Iran": {
+            "latitude": 34.5732,
+            "longitude": 51.876
           },
           "France": {
             "latitude": 46.2276,
             "longitude": 2.2137
-          },
-          "Egypt": {
-            "latitude": 26.8206,
-            "longitude": 30.8025
-          },
-          "South Korea": {
-            "latitude": 36.609249,
-            "longitude": 127.917932
           }
         },
         "key": "division"
@@ -1147,68 +1147,68 @@
       {
         "demes": {
           "Algeria": {
-            "latitude": 28.0000272,
-            "longitude": 2.9999825
+            "latitude": 28.0339,
+            "longitude": 1.6596
           },
           "Australia": {
-            "latitude": -24.7761085,
-            "longitude": 134.755
+            "latitude": -25.2744,
+            "longitude": 133.7751
           },
           "Brazil": {
-            "latitude": -10.3333332,
-            "longitude": -53.1999999
+            "latitude": -14.235,
+            "longitude": -51.9253
           },
           "China": {
-            "latitude": 35.000074,
-            "longitude": 104.999927
+            "latitude": 35.8617,
+            "longitude": 104.1954
           },
           "Colombia": {
-            "latitude": 2.893108,
-            "longitude": -73.7845142
+            "latitude": 4.5709,
+            "longitude": -74.2973
           },
           "Finland": {
-            "latitude": 63.2467777,
-            "longitude": 25.9209164
+            "latitude": 61.751734,
+            "longitude": 26.186437
           },
           "France": {
             "latitude": 46.2276,
             "longitude": 2.2137
           },
           "India": {
-            "latitude": 22.3511148,
-            "longitude": 78.6677428
+            "latitude": 21.077353,
+            "longitude": 78.723951
           },
           "Italy": {
-            "latitude": 42.6384261,
-            "longitude": 12.674297
+            "latitude": 43.382775,
+            "longitude": 12.183629
           },
           "Nepal": {
-            "latitude": 28.0,
-            "longitude": 84.0
+            "latitude": 28.3949,
+            "longitude": 84.124
           },
           "Pakistan": {
-            "latitude": 30.0,
-            "longitude": 70.0
+            "latitude": 30.3753,
+            "longitude": 69.3451
           },
           "Spain": {
-            "latitude": 40.0028028,
-            "longitude": -4.0031039
+            "latitude": 40.4637,
+            "longitude": -3.7492
           },
           "Sweden": {
-            "latitude": 59.6749712,
-            "longitude": 14.5208584
+            "latitude": 60.1282,
+            "longitude": 18.6435
           },
           "Taiwan": {
-            "latitude": 23.6978,
-            "longitude": 120.9605
+            "latitude": 23.8169,
+            "longitude": 121.031365
           },
           "USA": {
-            "latitude": 39.7837304,
-            "longitude": -100.4458824
+            "latitude": 38.916963,
+            "longitude": -98.891372
           },
           "Vietnam": {
-            "latitude": 16.16667,
-            "longitude": 107.83333
+            "latitude": 14.0583,
+            "longitude": 108.2772
           }
         },
         "key": "country"
